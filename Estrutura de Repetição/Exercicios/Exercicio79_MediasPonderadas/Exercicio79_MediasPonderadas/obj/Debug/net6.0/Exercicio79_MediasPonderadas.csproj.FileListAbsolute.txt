@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio79_MediasPonderadas\Exercicio79_MediasPonderadas\bin\Debug\net6.0\Exercicio79_MediasPonderadas.exe
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio79_MediasPonderadas\Exercicio79_MediasPonderadas\bin\Debug\net6.0\Exercicio79_MediasPonderadas.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio79_MediasPonderadas\Exercicio79_MediasPonderadas\bin\Debug\net6.0\Exercicio79_MediasPonderadas.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio79_MediasPonderadas\Exercicio79_MediasPonderadas\bin\Debug\net6.0\Exercicio79_MediasPonderadas.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio79_MediasPonderadas\Exercicio79_MediasPonderadas\bin\Debug\net6.0\Exercicio79_MediasPonderadas.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio79_MediasPonderadas\Exercicio79_MediasPonderadas\obj\Debug\net6.0\Exercicio79_MediasPonderadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio79_MediasPonderadas\Exercicio79_MediasPonderadas\obj\Debug\net6.0\Exercicio79_MediasPonderadas.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio79_MediasPonderadas\Exercicio79_MediasPonderadas\obj\Debug\net6.0\Exercicio79_MediasPonderadas.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio79_MediasPonderadas\Exercicio79_MediasPonderadas\obj\Debug\net6.0\Exercicio79_MediasPonderadas.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio79_MediasPonderadas\Exercicio79_MediasPonderadas\obj\Debug\net6.0\Exercicio79_MediasPonderadas.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio79_MediasPonderadas\Exercicio79_MediasPonderadas\obj\Debug\net6.0\refint\Exercicio79_MediasPonderadas.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio79_MediasPonderadas\Exercicio79_MediasPonderadas\obj\Debug\net6.0\Exercicio79_MediasPonderadas.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio79_MediasPonderadas\Exercicio79_MediasPonderadas\obj\Debug\net6.0\Exercicio79_MediasPonderadas.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio79_MediasPonderadas\Exercicio79_MediasPonderadas\obj\Debug\net6.0\ref\Exercicio79_MediasPonderadas.dll

@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio67_NumerosImpares\Exercicio67_NumerosImpares\bin\Debug\net6.0\Exercicio67_NumerosImpares.exe
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio67_NumerosImpares\Exercicio67_NumerosImpares\bin\Debug\net6.0\Exercicio67_NumerosImpares.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio67_NumerosImpares\Exercicio67_NumerosImpares\bin\Debug\net6.0\Exercicio67_NumerosImpares.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio67_NumerosImpares\Exercicio67_NumerosImpares\bin\Debug\net6.0\Exercicio67_NumerosImpares.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio67_NumerosImpares\Exercicio67_NumerosImpares\bin\Debug\net6.0\Exercicio67_NumerosImpares.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio67_NumerosImpares\Exercicio67_NumerosImpares\obj\Debug\net6.0\Exercicio67_NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio67_NumerosImpares\Exercicio67_NumerosImpares\obj\Debug\net6.0\Exercicio67_NumerosImpares.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio67_NumerosImpares\Exercicio67_NumerosImpares\obj\Debug\net6.0\Exercicio67_NumerosImpares.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio67_NumerosImpares\Exercicio67_NumerosImpares\obj\Debug\net6.0\Exercicio67_NumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio67_NumerosImpares\Exercicio67_NumerosImpares\obj\Debug\net6.0\Exercicio67_NumerosImpares.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio67_NumerosImpares\Exercicio67_NumerosImpares\obj\Debug\net6.0\refint\Exercicio67_NumerosImpares.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio67_NumerosImpares\Exercicio67_NumerosImpares\obj\Debug\net6.0\Exercicio67_NumerosImpares.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio67_NumerosImpares\Exercicio67_NumerosImpares\obj\Debug\net6.0\Exercicio67_NumerosImpares.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio67_NumerosImpares\Exercicio67_NumerosImpares\obj\Debug\net6.0\ref\Exercicio67_NumerosImpares.dll

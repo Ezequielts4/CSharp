@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio80_MaiorEPosicao\Exercicio80_MaiorEPosicao\bin\Debug\net6.0\Exercicio80_MaiorEPosicao.exe
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio80_MaiorEPosicao\Exercicio80_MaiorEPosicao\bin\Debug\net6.0\Exercicio80_MaiorEPosicao.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio80_MaiorEPosicao\Exercicio80_MaiorEPosicao\bin\Debug\net6.0\Exercicio80_MaiorEPosicao.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio80_MaiorEPosicao\Exercicio80_MaiorEPosicao\bin\Debug\net6.0\Exercicio80_MaiorEPosicao.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio80_MaiorEPosicao\Exercicio80_MaiorEPosicao\bin\Debug\net6.0\Exercicio80_MaiorEPosicao.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio80_MaiorEPosicao\Exercicio80_MaiorEPosicao\obj\Debug\net6.0\Exercicio80_MaiorEPosicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio80_MaiorEPosicao\Exercicio80_MaiorEPosicao\obj\Debug\net6.0\Exercicio80_MaiorEPosicao.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio80_MaiorEPosicao\Exercicio80_MaiorEPosicao\obj\Debug\net6.0\Exercicio80_MaiorEPosicao.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio80_MaiorEPosicao\Exercicio80_MaiorEPosicao\obj\Debug\net6.0\Exercicio80_MaiorEPosicao.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio80_MaiorEPosicao\Exercicio80_MaiorEPosicao\obj\Debug\net6.0\Exercicio80_MaiorEPosicao.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio80_MaiorEPosicao\Exercicio80_MaiorEPosicao\obj\Debug\net6.0\refint\Exercicio80_MaiorEPosicao.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio80_MaiorEPosicao\Exercicio80_MaiorEPosicao\obj\Debug\net6.0\Exercicio80_MaiorEPosicao.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio80_MaiorEPosicao\Exercicio80_MaiorEPosicao\obj\Debug\net6.0\Exercicio80_MaiorEPosicao.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio80_MaiorEPosicao\Exercicio80_MaiorEPosicao\obj\Debug\net6.0\ref\Exercicio80_MaiorEPosicao.dll

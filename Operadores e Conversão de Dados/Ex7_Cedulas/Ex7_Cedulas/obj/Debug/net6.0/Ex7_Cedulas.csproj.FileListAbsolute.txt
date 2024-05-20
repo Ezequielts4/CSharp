@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex7_Cedulas\Ex7_Cedulas\bin\Debug\net6.0\Ex7_Cedulas.exe
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex7_Cedulas\Ex7_Cedulas\bin\Debug\net6.0\Ex7_Cedulas.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex7_Cedulas\Ex7_Cedulas\bin\Debug\net6.0\Ex7_Cedulas.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex7_Cedulas\Ex7_Cedulas\bin\Debug\net6.0\Ex7_Cedulas.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex7_Cedulas\Ex7_Cedulas\bin\Debug\net6.0\Ex7_Cedulas.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex7_Cedulas\Ex7_Cedulas\obj\Debug\net6.0\Ex7_Cedulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex7_Cedulas\Ex7_Cedulas\obj\Debug\net6.0\Ex7_Cedulas.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex7_Cedulas\Ex7_Cedulas\obj\Debug\net6.0\Ex7_Cedulas.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex7_Cedulas\Ex7_Cedulas\obj\Debug\net6.0\Ex7_Cedulas.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex7_Cedulas\Ex7_Cedulas\obj\Debug\net6.0\Ex7_Cedulas.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex7_Cedulas\Ex7_Cedulas\obj\Debug\net6.0\refint\Ex7_Cedulas.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex7_Cedulas\Ex7_Cedulas\obj\Debug\net6.0\Ex7_Cedulas.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex7_Cedulas\Ex7_Cedulas\obj\Debug\net6.0\Ex7_Cedulas.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex7_Cedulas\Ex7_Cedulas\obj\Debug\net6.0\ref\Ex7_Cedulas.dll

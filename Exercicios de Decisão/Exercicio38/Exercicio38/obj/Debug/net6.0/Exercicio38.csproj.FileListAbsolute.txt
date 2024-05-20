@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio38\Exercicio38\bin\Debug\net6.0\Exercicio38.exe
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio38\Exercicio38\bin\Debug\net6.0\Exercicio38.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio38\Exercicio38\bin\Debug\net6.0\Exercicio38.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio38\Exercicio38\bin\Debug\net6.0\Exercicio38.dll
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio38\Exercicio38\bin\Debug\net6.0\Exercicio38.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio38\Exercicio38\obj\Debug\net6.0\Exercicio38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio38\Exercicio38\obj\Debug\net6.0\Exercicio38.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio38\Exercicio38\obj\Debug\net6.0\Exercicio38.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio38\Exercicio38\obj\Debug\net6.0\Exercicio38.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio38\Exercicio38\obj\Debug\net6.0\Exercicio38.dll
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio38\Exercicio38\obj\Debug\net6.0\refint\Exercicio38.dll
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio38\Exercicio38\obj\Debug\net6.0\Exercicio38.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio38\Exercicio38\obj\Debug\net6.0\Exercicio38.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio38\Exercicio38\obj\Debug\net6.0\ref\Exercicio38.dll

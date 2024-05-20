@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio35\Exercicio35\bin\Debug\net6.0\Exercicio35.exe
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio35\Exercicio35\bin\Debug\net6.0\Exercicio35.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio35\Exercicio35\bin\Debug\net6.0\Exercicio35.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio35\Exercicio35\bin\Debug\net6.0\Exercicio35.dll
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio35\Exercicio35\bin\Debug\net6.0\Exercicio35.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio35\Exercicio35\obj\Debug\net6.0\Exercicio35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio35\Exercicio35\obj\Debug\net6.0\Exercicio35.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio35\Exercicio35\obj\Debug\net6.0\Exercicio35.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio35\Exercicio35\obj\Debug\net6.0\Exercicio35.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio35\Exercicio35\obj\Debug\net6.0\Exercicio35.dll
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio35\Exercicio35\obj\Debug\net6.0\refint\Exercicio35.dll
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio35\Exercicio35\obj\Debug\net6.0\Exercicio35.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio35\Exercicio35\obj\Debug\net6.0\Exercicio35.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Exercicios de Decisão\Exercicio35\Exercicio35\obj\Debug\net6.0\ref\Exercicio35.dll

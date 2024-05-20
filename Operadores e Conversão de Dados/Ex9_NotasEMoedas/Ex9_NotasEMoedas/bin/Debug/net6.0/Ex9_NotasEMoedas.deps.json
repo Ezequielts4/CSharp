@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex9_NotasEMoedas/1.0.0": {
+        "runtime": {
+          "Ex9_NotasEMoedas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex9_NotasEMoedas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

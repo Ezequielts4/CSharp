@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\Debug\Debug\bin\Debug\net6.0\Debug.exe
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\Debug\Debug\bin\Debug\net6.0\Debug.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\Debug\Debug\bin\Debug\net6.0\Debug.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\Debug\Debug\bin\Debug\net6.0\Debug.dll
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\Debug\Debug\bin\Debug\net6.0\Debug.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\Debug\Debug\obj\Debug\net6.0\Debug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\Debug\Debug\obj\Debug\net6.0\Debug.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\Debug\Debug\obj\Debug\net6.0\Debug.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\Debug\Debug\obj\Debug\net6.0\Debug.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\Debug\Debug\obj\Debug\net6.0\Debug.dll
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\Debug\Debug\obj\Debug\net6.0\refint\Debug.dll
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\Debug\Debug\obj\Debug\net6.0\Debug.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\Debug\Debug\obj\Debug\net6.0\Debug.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\Debug\Debug\obj\Debug\net6.0\ref\Debug.dll

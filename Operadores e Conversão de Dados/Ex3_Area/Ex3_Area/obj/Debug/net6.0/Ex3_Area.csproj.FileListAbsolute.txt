@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex3_Area\Ex3_Area\bin\Debug\net6.0\Ex3_Area.exe
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex3_Area\Ex3_Area\bin\Debug\net6.0\Ex3_Area.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex3_Area\Ex3_Area\bin\Debug\net6.0\Ex3_Area.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex3_Area\Ex3_Area\bin\Debug\net6.0\Ex3_Area.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex3_Area\Ex3_Area\bin\Debug\net6.0\Ex3_Area.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex3_Area\Ex3_Area\obj\Debug\net6.0\Ex3_Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex3_Area\Ex3_Area\obj\Debug\net6.0\Ex3_Area.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex3_Area\Ex3_Area\obj\Debug\net6.0\Ex3_Area.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex3_Area\Ex3_Area\obj\Debug\net6.0\Ex3_Area.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex3_Area\Ex3_Area\obj\Debug\net6.0\Ex3_Area.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex3_Area\Ex3_Area\obj\Debug\net6.0\refint\Ex3_Area.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex3_Area\Ex3_Area\obj\Debug\net6.0\Ex3_Area.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex3_Area\Ex3_Area\obj\Debug\net6.0\Ex3_Area.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex3_Area\Ex3_Area\obj\Debug\net6.0\ref\Ex3_Area.dll

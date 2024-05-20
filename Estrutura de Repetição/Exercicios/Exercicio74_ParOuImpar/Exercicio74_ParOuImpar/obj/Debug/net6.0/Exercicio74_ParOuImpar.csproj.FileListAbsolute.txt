@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio74_ParOuImpar\Exercicio74_ParOuImpar\bin\Debug\net6.0\Exercicio74_ParOuImpar.exe
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio74_ParOuImpar\Exercicio74_ParOuImpar\bin\Debug\net6.0\Exercicio74_ParOuImpar.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio74_ParOuImpar\Exercicio74_ParOuImpar\bin\Debug\net6.0\Exercicio74_ParOuImpar.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio74_ParOuImpar\Exercicio74_ParOuImpar\bin\Debug\net6.0\Exercicio74_ParOuImpar.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio74_ParOuImpar\Exercicio74_ParOuImpar\bin\Debug\net6.0\Exercicio74_ParOuImpar.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio74_ParOuImpar\Exercicio74_ParOuImpar\obj\Debug\net6.0\Exercicio74_ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio74_ParOuImpar\Exercicio74_ParOuImpar\obj\Debug\net6.0\Exercicio74_ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio74_ParOuImpar\Exercicio74_ParOuImpar\obj\Debug\net6.0\Exercicio74_ParOuImpar.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio74_ParOuImpar\Exercicio74_ParOuImpar\obj\Debug\net6.0\Exercicio74_ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio74_ParOuImpar\Exercicio74_ParOuImpar\obj\Debug\net6.0\Exercicio74_ParOuImpar.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio74_ParOuImpar\Exercicio74_ParOuImpar\obj\Debug\net6.0\refint\Exercicio74_ParOuImpar.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio74_ParOuImpar\Exercicio74_ParOuImpar\obj\Debug\net6.0\Exercicio74_ParOuImpar.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio74_ParOuImpar\Exercicio74_ParOuImpar\obj\Debug\net6.0\Exercicio74_ParOuImpar.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio74_ParOuImpar\Exercicio74_ParOuImpar\obj\Debug\net6.0\ref\Exercicio74_ParOuImpar.dll

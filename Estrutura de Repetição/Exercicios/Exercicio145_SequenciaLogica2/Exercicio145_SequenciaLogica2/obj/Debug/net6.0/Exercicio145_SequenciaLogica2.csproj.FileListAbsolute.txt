@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio145_SequenciaLogica2\Exercicio145_SequenciaLogica2\bin\Debug\net6.0\Exercicio145_SequenciaLogica2.exe
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio145_SequenciaLogica2\Exercicio145_SequenciaLogica2\bin\Debug\net6.0\Exercicio145_SequenciaLogica2.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio145_SequenciaLogica2\Exercicio145_SequenciaLogica2\bin\Debug\net6.0\Exercicio145_SequenciaLogica2.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio145_SequenciaLogica2\Exercicio145_SequenciaLogica2\bin\Debug\net6.0\Exercicio145_SequenciaLogica2.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio145_SequenciaLogica2\Exercicio145_SequenciaLogica2\bin\Debug\net6.0\Exercicio145_SequenciaLogica2.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio145_SequenciaLogica2\Exercicio145_SequenciaLogica2\obj\Debug\net6.0\Exercicio145_SequenciaLogica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio145_SequenciaLogica2\Exercicio145_SequenciaLogica2\obj\Debug\net6.0\Exercicio145_SequenciaLogica2.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio145_SequenciaLogica2\Exercicio145_SequenciaLogica2\obj\Debug\net6.0\Exercicio145_SequenciaLogica2.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio145_SequenciaLogica2\Exercicio145_SequenciaLogica2\obj\Debug\net6.0\Exercicio145_SequenciaLogica2.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio145_SequenciaLogica2\Exercicio145_SequenciaLogica2\obj\Debug\net6.0\Exercicio145_SequenciaLogica2.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio145_SequenciaLogica2\Exercicio145_SequenciaLogica2\obj\Debug\net6.0\refint\Exercicio145_SequenciaLogica2.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio145_SequenciaLogica2\Exercicio145_SequenciaLogica2\obj\Debug\net6.0\Exercicio145_SequenciaLogica2.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio145_SequenciaLogica2\Exercicio145_SequenciaLogica2\obj\Debug\net6.0\Exercicio145_SequenciaLogica2.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio145_SequenciaLogica2\Exercicio145_SequenciaLogica2\obj\Debug\net6.0\ref\Exercicio145_SequenciaLogica2.dll

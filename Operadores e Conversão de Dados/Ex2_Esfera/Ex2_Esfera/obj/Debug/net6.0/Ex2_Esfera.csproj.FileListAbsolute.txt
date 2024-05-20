@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex2_Esfera\Ex2_Esfera\bin\Debug\net6.0\Ex2_Esfera.exe
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex2_Esfera\Ex2_Esfera\bin\Debug\net6.0\Ex2_Esfera.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex2_Esfera\Ex2_Esfera\bin\Debug\net6.0\Ex2_Esfera.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex2_Esfera\Ex2_Esfera\bin\Debug\net6.0\Ex2_Esfera.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex2_Esfera\Ex2_Esfera\bin\Debug\net6.0\Ex2_Esfera.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex2_Esfera\Ex2_Esfera\obj\Debug\net6.0\Ex2_Esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex2_Esfera\Ex2_Esfera\obj\Debug\net6.0\Ex2_Esfera.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex2_Esfera\Ex2_Esfera\obj\Debug\net6.0\Ex2_Esfera.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex2_Esfera\Ex2_Esfera\obj\Debug\net6.0\Ex2_Esfera.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex2_Esfera\Ex2_Esfera\obj\Debug\net6.0\Ex2_Esfera.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex2_Esfera\Ex2_Esfera\obj\Debug\net6.0\refint\Ex2_Esfera.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex2_Esfera\Ex2_Esfera\obj\Debug\net6.0\Ex2_Esfera.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex2_Esfera\Ex2_Esfera\obj\Debug\net6.0\Ex2_Esfera.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex2_Esfera\Ex2_Esfera\obj\Debug\net6.0\ref\Ex2_Esfera.dll

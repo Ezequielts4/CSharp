@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex5_Distancia\Ex5_Distancia\bin\Debug\net6.0\Ex5_Distancia.exe
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex5_Distancia\Ex5_Distancia\bin\Debug\net6.0\Ex5_Distancia.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex5_Distancia\Ex5_Distancia\bin\Debug\net6.0\Ex5_Distancia.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex5_Distancia\Ex5_Distancia\bin\Debug\net6.0\Ex5_Distancia.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex5_Distancia\Ex5_Distancia\bin\Debug\net6.0\Ex5_Distancia.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex5_Distancia\Ex5_Distancia\obj\Debug\net6.0\Ex5_Distancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex5_Distancia\Ex5_Distancia\obj\Debug\net6.0\Ex5_Distancia.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex5_Distancia\Ex5_Distancia\obj\Debug\net6.0\Ex5_Distancia.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex5_Distancia\Ex5_Distancia\obj\Debug\net6.0\Ex5_Distancia.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex5_Distancia\Ex5_Distancia\obj\Debug\net6.0\Ex5_Distancia.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex5_Distancia\Ex5_Distancia\obj\Debug\net6.0\refint\Ex5_Distancia.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex5_Distancia\Ex5_Distancia\obj\Debug\net6.0\Ex5_Distancia.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex5_Distancia\Ex5_Distancia\obj\Debug\net6.0\Ex5_Distancia.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex5_Distancia\Ex5_Distancia\obj\Debug\net6.0\ref\Ex5_Distancia.dll

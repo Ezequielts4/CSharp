@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\ExemploForeach\ExemploForeach\bin\Debug\net6.0\ExemploForeach.exe
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\ExemploForeach\ExemploForeach\bin\Debug\net6.0\ExemploForeach.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\ExemploForeach\ExemploForeach\bin\Debug\net6.0\ExemploForeach.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\ExemploForeach\ExemploForeach\bin\Debug\net6.0\ExemploForeach.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\ExemploForeach\ExemploForeach\bin\Debug\net6.0\ExemploForeach.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\ExemploForeach\ExemploForeach\obj\Debug\net6.0\ExemploForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\ExemploForeach\ExemploForeach\obj\Debug\net6.0\ExemploForeach.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\ExemploForeach\ExemploForeach\obj\Debug\net6.0\ExemploForeach.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\ExemploForeach\ExemploForeach\obj\Debug\net6.0\ExemploForeach.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\ExemploForeach\ExemploForeach\obj\Debug\net6.0\ExemploForeach.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\ExemploForeach\ExemploForeach\obj\Debug\net6.0\refint\ExemploForeach.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\ExemploForeach\ExemploForeach\obj\Debug\net6.0\ExemploForeach.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\ExemploForeach\ExemploForeach\obj\Debug\net6.0\ExemploForeach.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\ExemploForeach\ExemploForeach\obj\Debug\net6.0\ref\ExemploForeach.dll

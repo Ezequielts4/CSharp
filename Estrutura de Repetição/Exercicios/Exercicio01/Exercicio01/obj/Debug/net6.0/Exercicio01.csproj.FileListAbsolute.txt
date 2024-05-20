@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio01\Exercicio01\bin\Debug\net6.0\Exercicio01.exe
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio01\Exercicio01\bin\Debug\net6.0\Exercicio01.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio01\Exercicio01\bin\Debug\net6.0\Exercicio01.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio01\Exercicio01\bin\Debug\net6.0\Exercicio01.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio01\Exercicio01\bin\Debug\net6.0\Exercicio01.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio01\Exercicio01\obj\Debug\net6.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio01\Exercicio01\obj\Debug\net6.0\Exercicio01.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio01\Exercicio01\obj\Debug\net6.0\Exercicio01.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio01\Exercicio01\obj\Debug\net6.0\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio01\Exercicio01\obj\Debug\net6.0\Exercicio01.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio01\Exercicio01\obj\Debug\net6.0\refint\Exercicio01.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio01\Exercicio01\obj\Debug\net6.0\Exercicio01.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio01\Exercicio01\obj\Debug\net6.0\Exercicio01.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio01\Exercicio01\obj\Debug\net6.0\ref\Exercicio01.dll

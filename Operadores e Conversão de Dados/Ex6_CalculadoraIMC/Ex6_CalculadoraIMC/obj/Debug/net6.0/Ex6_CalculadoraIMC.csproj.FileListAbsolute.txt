@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex6_CalculadoraIMC\Ex6_CalculadoraIMC\bin\Debug\net6.0\Ex6_CalculadoraIMC.exe
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex6_CalculadoraIMC\Ex6_CalculadoraIMC\bin\Debug\net6.0\Ex6_CalculadoraIMC.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex6_CalculadoraIMC\Ex6_CalculadoraIMC\bin\Debug\net6.0\Ex6_CalculadoraIMC.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex6_CalculadoraIMC\Ex6_CalculadoraIMC\bin\Debug\net6.0\Ex6_CalculadoraIMC.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex6_CalculadoraIMC\Ex6_CalculadoraIMC\bin\Debug\net6.0\Ex6_CalculadoraIMC.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex6_CalculadoraIMC\Ex6_CalculadoraIMC\obj\Debug\net6.0\Ex6_CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex6_CalculadoraIMC\Ex6_CalculadoraIMC\obj\Debug\net6.0\Ex6_CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex6_CalculadoraIMC\Ex6_CalculadoraIMC\obj\Debug\net6.0\Ex6_CalculadoraIMC.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex6_CalculadoraIMC\Ex6_CalculadoraIMC\obj\Debug\net6.0\Ex6_CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex6_CalculadoraIMC\Ex6_CalculadoraIMC\obj\Debug\net6.0\Ex6_CalculadoraIMC.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex6_CalculadoraIMC\Ex6_CalculadoraIMC\obj\Debug\net6.0\refint\Ex6_CalculadoraIMC.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex6_CalculadoraIMC\Ex6_CalculadoraIMC\obj\Debug\net6.0\Ex6_CalculadoraIMC.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex6_CalculadoraIMC\Ex6_CalculadoraIMC\obj\Debug\net6.0\Ex6_CalculadoraIMC.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex6_CalculadoraIMC\Ex6_CalculadoraIMC\obj\Debug\net6.0\ref\Ex6_CalculadoraIMC.dll

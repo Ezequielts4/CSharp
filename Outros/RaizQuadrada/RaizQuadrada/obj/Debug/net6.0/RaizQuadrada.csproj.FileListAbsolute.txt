@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\RaizQuadrada\RaizQuadrada\bin\Debug\net6.0\RaizQuadrada.exe
+C:\Users\57824564851\Desktop\Ezequiel\RaizQuadrada\RaizQuadrada\bin\Debug\net6.0\RaizQuadrada.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\RaizQuadrada\RaizQuadrada\bin\Debug\net6.0\RaizQuadrada.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\RaizQuadrada\RaizQuadrada\bin\Debug\net6.0\RaizQuadrada.dll
+C:\Users\57824564851\Desktop\Ezequiel\RaizQuadrada\RaizQuadrada\bin\Debug\net6.0\RaizQuadrada.pdb
+C:\Users\57824564851\Desktop\Ezequiel\RaizQuadrada\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\RaizQuadrada\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\RaizQuadrada\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\RaizQuadrada\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\RaizQuadrada\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.dll
+C:\Users\57824564851\Desktop\Ezequiel\RaizQuadrada\RaizQuadrada\obj\Debug\net6.0\refint\RaizQuadrada.dll
+C:\Users\57824564851\Desktop\Ezequiel\RaizQuadrada\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.pdb
+C:\Users\57824564851\Desktop\Ezequiel\RaizQuadrada\RaizQuadrada\obj\Debug\net6.0\RaizQuadrada.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\RaizQuadrada\RaizQuadrada\obj\Debug\net6.0\ref\RaizQuadrada.dll

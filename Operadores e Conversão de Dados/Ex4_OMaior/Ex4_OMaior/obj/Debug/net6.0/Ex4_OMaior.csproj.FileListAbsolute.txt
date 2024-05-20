@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex4_OMaior\Ex4_OMaior\bin\Debug\net6.0\Ex4_OMaior.exe
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex4_OMaior\Ex4_OMaior\bin\Debug\net6.0\Ex4_OMaior.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex4_OMaior\Ex4_OMaior\bin\Debug\net6.0\Ex4_OMaior.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex4_OMaior\Ex4_OMaior\bin\Debug\net6.0\Ex4_OMaior.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex4_OMaior\Ex4_OMaior\bin\Debug\net6.0\Ex4_OMaior.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex4_OMaior\Ex4_OMaior\obj\Debug\net6.0\Ex4_OMaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex4_OMaior\Ex4_OMaior\obj\Debug\net6.0\Ex4_OMaior.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex4_OMaior\Ex4_OMaior\obj\Debug\net6.0\Ex4_OMaior.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex4_OMaior\Ex4_OMaior\obj\Debug\net6.0\Ex4_OMaior.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex4_OMaior\Ex4_OMaior\obj\Debug\net6.0\Ex4_OMaior.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex4_OMaior\Ex4_OMaior\obj\Debug\net6.0\refint\Ex4_OMaior.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex4_OMaior\Ex4_OMaior\obj\Debug\net6.0\Ex4_OMaior.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex4_OMaior\Ex4_OMaior\obj\Debug\net6.0\Ex4_OMaior.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex4_OMaior\Ex4_OMaior\obj\Debug\net6.0\ref\Ex4_OMaior.dll

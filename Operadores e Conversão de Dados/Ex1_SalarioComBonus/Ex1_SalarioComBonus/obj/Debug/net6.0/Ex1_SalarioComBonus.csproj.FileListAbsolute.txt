@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex1_SalarioComBonus\Ex1_SalarioComBonus\bin\Debug\net6.0\Ex1_SalarioComBonus.exe
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex1_SalarioComBonus\Ex1_SalarioComBonus\bin\Debug\net6.0\Ex1_SalarioComBonus.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex1_SalarioComBonus\Ex1_SalarioComBonus\bin\Debug\net6.0\Ex1_SalarioComBonus.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex1_SalarioComBonus\Ex1_SalarioComBonus\bin\Debug\net6.0\Ex1_SalarioComBonus.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex1_SalarioComBonus\Ex1_SalarioComBonus\bin\Debug\net6.0\Ex1_SalarioComBonus.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex1_SalarioComBonus\Ex1_SalarioComBonus\obj\Debug\net6.0\Ex1_SalarioComBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex1_SalarioComBonus\Ex1_SalarioComBonus\obj\Debug\net6.0\Ex1_SalarioComBonus.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex1_SalarioComBonus\Ex1_SalarioComBonus\obj\Debug\net6.0\Ex1_SalarioComBonus.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex1_SalarioComBonus\Ex1_SalarioComBonus\obj\Debug\net6.0\Ex1_SalarioComBonus.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex1_SalarioComBonus\Ex1_SalarioComBonus\obj\Debug\net6.0\Ex1_SalarioComBonus.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex1_SalarioComBonus\Ex1_SalarioComBonus\obj\Debug\net6.0\refint\Ex1_SalarioComBonus.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex1_SalarioComBonus\Ex1_SalarioComBonus\obj\Debug\net6.0\Ex1_SalarioComBonus.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex1_SalarioComBonus\Ex1_SalarioComBonus\obj\Debug\net6.0\Ex1_SalarioComBonus.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex1_SalarioComBonus\Ex1_SalarioComBonus\obj\Debug\net6.0\ref\Ex1_SalarioComBonus.dll

@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\OperadorAtribuicaoCumulativa\OperadorAtribuicaoCumulativa\bin\Debug\net6.0\OperadorAtribuicaoCumulativa.exe
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\OperadorAtribuicaoCumulativa\OperadorAtribuicaoCumulativa\bin\Debug\net6.0\OperadorAtribuicaoCumulativa.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\OperadorAtribuicaoCumulativa\OperadorAtribuicaoCumulativa\bin\Debug\net6.0\OperadorAtribuicaoCumulativa.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\OperadorAtribuicaoCumulativa\OperadorAtribuicaoCumulativa\bin\Debug\net6.0\OperadorAtribuicaoCumulativa.dll
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\OperadorAtribuicaoCumulativa\OperadorAtribuicaoCumulativa\bin\Debug\net6.0\OperadorAtribuicaoCumulativa.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\OperadorAtribuicaoCumulativa\OperadorAtribuicaoCumulativa\obj\Debug\net6.0\OperadorAtribuicaoCumulativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\OperadorAtribuicaoCumulativa\OperadorAtribuicaoCumulativa\obj\Debug\net6.0\OperadorAtribuicaoCumulativa.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\OperadorAtribuicaoCumulativa\OperadorAtribuicaoCumulativa\obj\Debug\net6.0\OperadorAtribuicaoCumulativa.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\OperadorAtribuicaoCumulativa\OperadorAtribuicaoCumulativa\obj\Debug\net6.0\OperadorAtribuicaoCumulativa.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\OperadorAtribuicaoCumulativa\OperadorAtribuicaoCumulativa\obj\Debug\net6.0\OperadorAtribuicaoCumulativa.dll
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\OperadorAtribuicaoCumulativa\OperadorAtribuicaoCumulativa\obj\Debug\net6.0\refint\OperadorAtribuicaoCumulativa.dll
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\OperadorAtribuicaoCumulativa\OperadorAtribuicaoCumulativa\obj\Debug\net6.0\OperadorAtribuicaoCumulativa.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\OperadorAtribuicaoCumulativa\OperadorAtribuicaoCumulativa\obj\Debug\net6.0\OperadorAtribuicaoCumulativa.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Outros\Operadores\OperadorAtribuicaoCumulativa\OperadorAtribuicaoCumulativa\obj\Debug\net6.0\ref\OperadorAtribuicaoCumulativa.dll

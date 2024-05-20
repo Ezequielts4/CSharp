@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex9_NotasEMoedas\Ex9_NotasEMoedas\bin\Debug\net6.0\Ex9_NotasEMoedas.exe
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex9_NotasEMoedas\Ex9_NotasEMoedas\bin\Debug\net6.0\Ex9_NotasEMoedas.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex9_NotasEMoedas\Ex9_NotasEMoedas\bin\Debug\net6.0\Ex9_NotasEMoedas.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex9_NotasEMoedas\Ex9_NotasEMoedas\bin\Debug\net6.0\Ex9_NotasEMoedas.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex9_NotasEMoedas\Ex9_NotasEMoedas\bin\Debug\net6.0\Ex9_NotasEMoedas.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex9_NotasEMoedas\Ex9_NotasEMoedas\obj\Debug\net6.0\Ex9_NotasEMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex9_NotasEMoedas\Ex9_NotasEMoedas\obj\Debug\net6.0\Ex9_NotasEMoedas.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex9_NotasEMoedas\Ex9_NotasEMoedas\obj\Debug\net6.0\Ex9_NotasEMoedas.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex9_NotasEMoedas\Ex9_NotasEMoedas\obj\Debug\net6.0\Ex9_NotasEMoedas.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex9_NotasEMoedas\Ex9_NotasEMoedas\obj\Debug\net6.0\Ex9_NotasEMoedas.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex9_NotasEMoedas\Ex9_NotasEMoedas\obj\Debug\net6.0\refint\Ex9_NotasEMoedas.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex9_NotasEMoedas\Ex9_NotasEMoedas\obj\Debug\net6.0\Ex9_NotasEMoedas.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex9_NotasEMoedas\Ex9_NotasEMoedas\obj\Debug\net6.0\Ex9_NotasEMoedas.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex9_NotasEMoedas\Ex9_NotasEMoedas\obj\Debug\net6.0\ref\Ex9_NotasEMoedas.dll

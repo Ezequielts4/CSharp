@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net6.0\ExtremamenteBasico.exe
+C:\Users\57824564851\Desktop\Ezequiel\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net6.0\ExtremamenteBasico.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net6.0\ExtremamenteBasico.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net6.0\ExtremamenteBasico.dll
+C:\Users\57824564851\Desktop\Ezequiel\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net6.0\ExtremamenteBasico.pdb
+C:\Users\57824564851\Desktop\Ezequiel\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.dll
+C:\Users\57824564851\Desktop\Ezequiel\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\refint\ExtremamenteBasico.dll
+C:\Users\57824564851\Desktop\Ezequiel\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.pdb
+C:\Users\57824564851\Desktop\Ezequiel\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ExtremamenteBasico.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net6.0\ref\ExtremamenteBasico.dll

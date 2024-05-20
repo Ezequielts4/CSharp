@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Outros\ex7\ex7\bin\Debug\net6.0\ex7.exe
+C:\Users\57824564851\Desktop\Ezequiel\Outros\ex7\ex7\bin\Debug\net6.0\ex7.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Outros\ex7\ex7\bin\Debug\net6.0\ex7.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Outros\ex7\ex7\bin\Debug\net6.0\ex7.dll
+C:\Users\57824564851\Desktop\Ezequiel\Outros\ex7\ex7\bin\Debug\net6.0\ex7.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Outros\ex7\ex7\obj\Debug\net6.0\ex7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Outros\ex7\ex7\obj\Debug\net6.0\ex7.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Outros\ex7\ex7\obj\Debug\net6.0\ex7.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Outros\ex7\ex7\obj\Debug\net6.0\ex7.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Outros\ex7\ex7\obj\Debug\net6.0\ex7.dll
+C:\Users\57824564851\Desktop\Ezequiel\Outros\ex7\ex7\obj\Debug\net6.0\refint\ex7.dll
+C:\Users\57824564851\Desktop\Ezequiel\Outros\ex7\ex7\obj\Debug\net6.0\ex7.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Outros\ex7\ex7\obj\Debug\net6.0\ex7.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Outros\ex7\ex7\obj\Debug\net6.0\ref\ex7.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercicio67_NumerosImpares/1.0.0": {
+        "runtime": {
+          "Exercicio67_NumerosImpares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio67_NumerosImpares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

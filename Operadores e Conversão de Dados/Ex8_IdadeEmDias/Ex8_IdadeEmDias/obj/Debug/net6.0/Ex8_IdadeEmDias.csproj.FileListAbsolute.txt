@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex8_IdadeEmDias\Ex8_IdadeEmDias\bin\Debug\net6.0\Ex8_IdadeEmDias.exe
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex8_IdadeEmDias\Ex8_IdadeEmDias\bin\Debug\net6.0\Ex8_IdadeEmDias.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex8_IdadeEmDias\Ex8_IdadeEmDias\bin\Debug\net6.0\Ex8_IdadeEmDias.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex8_IdadeEmDias\Ex8_IdadeEmDias\bin\Debug\net6.0\Ex8_IdadeEmDias.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex8_IdadeEmDias\Ex8_IdadeEmDias\bin\Debug\net6.0\Ex8_IdadeEmDias.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex8_IdadeEmDias\Ex8_IdadeEmDias\obj\Debug\net6.0\Ex8_IdadeEmDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex8_IdadeEmDias\Ex8_IdadeEmDias\obj\Debug\net6.0\Ex8_IdadeEmDias.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex8_IdadeEmDias\Ex8_IdadeEmDias\obj\Debug\net6.0\Ex8_IdadeEmDias.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex8_IdadeEmDias\Ex8_IdadeEmDias\obj\Debug\net6.0\Ex8_IdadeEmDias.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex8_IdadeEmDias\Ex8_IdadeEmDias\obj\Debug\net6.0\Ex8_IdadeEmDias.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex8_IdadeEmDias\Ex8_IdadeEmDias\obj\Debug\net6.0\refint\Ex8_IdadeEmDias.dll
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex8_IdadeEmDias\Ex8_IdadeEmDias\obj\Debug\net6.0\Ex8_IdadeEmDias.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex8_IdadeEmDias\Ex8_IdadeEmDias\obj\Debug\net6.0\Ex8_IdadeEmDias.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Operadores e Conversão de Dados\Ex8_IdadeEmDias\Ex8_IdadeEmDias\obj\Debug\net6.0\ref\Ex8_IdadeEmDias.dll

@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio73_QuadradoDePares\Exercicio73_QuadradoDePares\bin\Debug\net6.0\Exercicio73_QuadradoDePares.exe
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio73_QuadradoDePares\Exercicio73_QuadradoDePares\bin\Debug\net6.0\Exercicio73_QuadradoDePares.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio73_QuadradoDePares\Exercicio73_QuadradoDePares\bin\Debug\net6.0\Exercicio73_QuadradoDePares.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio73_QuadradoDePares\Exercicio73_QuadradoDePares\bin\Debug\net6.0\Exercicio73_QuadradoDePares.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio73_QuadradoDePares\Exercicio73_QuadradoDePares\bin\Debug\net6.0\Exercicio73_QuadradoDePares.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio73_QuadradoDePares\Exercicio73_QuadradoDePares\obj\Debug\net6.0\Exercicio73_QuadradoDePares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio73_QuadradoDePares\Exercicio73_QuadradoDePares\obj\Debug\net6.0\Exercicio73_QuadradoDePares.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio73_QuadradoDePares\Exercicio73_QuadradoDePares\obj\Debug\net6.0\Exercicio73_QuadradoDePares.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio73_QuadradoDePares\Exercicio73_QuadradoDePares\obj\Debug\net6.0\Exercicio73_QuadradoDePares.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio73_QuadradoDePares\Exercicio73_QuadradoDePares\obj\Debug\net6.0\Exercicio73_QuadradoDePares.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio73_QuadradoDePares\Exercicio73_QuadradoDePares\obj\Debug\net6.0\refint\Exercicio73_QuadradoDePares.dll
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio73_QuadradoDePares\Exercicio73_QuadradoDePares\obj\Debug\net6.0\Exercicio73_QuadradoDePares.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio73_QuadradoDePares\Exercicio73_QuadradoDePares\obj\Debug\net6.0\Exercicio73_QuadradoDePares.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Estrutura de Repetição\Exercicios\Exercicio73_QuadradoDePares\Exercicio73_QuadradoDePares\obj\Debug\net6.0\ref\Exercicio73_QuadradoDePares.dll
