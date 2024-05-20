@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Vetores\Exercicio01_Vetor\Exercicio01_Vetor\bin\Debug\net6.0\Exercicio01_Vetor.exe
+C:\Users\57824564851\Desktop\Ezequiel\Vetores\Exercicio01_Vetor\Exercicio01_Vetor\bin\Debug\net6.0\Exercicio01_Vetor.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Vetores\Exercicio01_Vetor\Exercicio01_Vetor\bin\Debug\net6.0\Exercicio01_Vetor.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Vetores\Exercicio01_Vetor\Exercicio01_Vetor\bin\Debug\net6.0\Exercicio01_Vetor.dll
+C:\Users\57824564851\Desktop\Ezequiel\Vetores\Exercicio01_Vetor\Exercicio01_Vetor\bin\Debug\net6.0\Exercicio01_Vetor.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Vetores\Exercicio01_Vetor\Exercicio01_Vetor\obj\Debug\net6.0\Exercicio01_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Vetores\Exercicio01_Vetor\Exercicio01_Vetor\obj\Debug\net6.0\Exercicio01_Vetor.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Vetores\Exercicio01_Vetor\Exercicio01_Vetor\obj\Debug\net6.0\Exercicio01_Vetor.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Vetores\Exercicio01_Vetor\Exercicio01_Vetor\obj\Debug\net6.0\Exercicio01_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Vetores\Exercicio01_Vetor\Exercicio01_Vetor\obj\Debug\net6.0\Exercicio01_Vetor.dll
+C:\Users\57824564851\Desktop\Ezequiel\Vetores\Exercicio01_Vetor\Exercicio01_Vetor\obj\Debug\net6.0\refint\Exercicio01_Vetor.dll
+C:\Users\57824564851\Desktop\Ezequiel\Vetores\Exercicio01_Vetor\Exercicio01_Vetor\obj\Debug\net6.0\Exercicio01_Vetor.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Vetores\Exercicio01_Vetor\Exercicio01_Vetor\obj\Debug\net6.0\Exercicio01_Vetor.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Vetores\Exercicio01_Vetor\Exercicio01_Vetor\obj\Debug\net6.0\ref\Exercicio01_Vetor.dll
