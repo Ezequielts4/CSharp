@@ -1,4 +1,5 @@
-﻿using System.Globalization;
+﻿
+using System.Globalization;
 
 int n;
 int[] s;
@@ -50,7 +51,8 @@ for (int i = 0; i < n; i++)
 
 Console.WriteLine("A menor altura é: " + menor);
 
-double media = 0;
+double soma = 0;
+double media;
 int cont = 0;
 
 for (int i = 0; i < n; i++)
@@ -58,9 +60,11 @@ for (int i = 0; i < n; i++)
     if (sexo[i] == "M" || sexo[i] == "m")
     {
         cont++;
-        media = alturas[i] + alturas[i+1] / cont;
+        soma += alturas[i];
     }
 }
+
+media = soma / cont;
 
 Console.WriteLine("A média das mulheres é: " + media); 
 
@@ -76,5 +80,3 @@ for (int i = 0; i < n; i++)
 
 Console.WriteLine("Números de homens: " + contagem);
 
-
-// arrumar a média das mulheres
