@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Matrizes\ExemploMatriz\ExemploMatriz\bin\Debug\net6.0\ExemploMatriz.exe
+C:\Users\57824564851\Desktop\Ezequiel\Matrizes\ExemploMatriz\ExemploMatriz\bin\Debug\net6.0\ExemploMatriz.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Matrizes\ExemploMatriz\ExemploMatriz\bin\Debug\net6.0\ExemploMatriz.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Matrizes\ExemploMatriz\ExemploMatriz\bin\Debug\net6.0\ExemploMatriz.dll
+C:\Users\57824564851\Desktop\Ezequiel\Matrizes\ExemploMatriz\ExemploMatriz\bin\Debug\net6.0\ExemploMatriz.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Matrizes\ExemploMatriz\ExemploMatriz\obj\Debug\net6.0\ExemploMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Matrizes\ExemploMatriz\ExemploMatriz\obj\Debug\net6.0\ExemploMatriz.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Matrizes\ExemploMatriz\ExemploMatriz\obj\Debug\net6.0\ExemploMatriz.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Matrizes\ExemploMatriz\ExemploMatriz\obj\Debug\net6.0\ExemploMatriz.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Matrizes\ExemploMatriz\ExemploMatriz\obj\Debug\net6.0\ExemploMatriz.dll
+C:\Users\57824564851\Desktop\Ezequiel\Matrizes\ExemploMatriz\ExemploMatriz\obj\Debug\net6.0\refint\ExemploMatriz.dll
+C:\Users\57824564851\Desktop\Ezequiel\Matrizes\ExemploMatriz\ExemploMatriz\obj\Debug\net6.0\ExemploMatriz.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Matrizes\ExemploMatriz\ExemploMatriz\obj\Debug\net6.0\ExemploMatriz.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Matrizes\ExemploMatriz\ExemploMatriz\obj\Debug\net6.0\ref\ExemploMatriz.dll
