@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Funções\CorrecaoCalculadora\CorrecaoCalculadora\bin\Debug\net6.0\CorrecaoCalculadora.exe
+C:\Users\57824564851\Desktop\Ezequiel\Funções\CorrecaoCalculadora\CorrecaoCalculadora\bin\Debug\net6.0\CorrecaoCalculadora.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Funções\CorrecaoCalculadora\CorrecaoCalculadora\bin\Debug\net6.0\CorrecaoCalculadora.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Funções\CorrecaoCalculadora\CorrecaoCalculadora\bin\Debug\net6.0\CorrecaoCalculadora.dll
+C:\Users\57824564851\Desktop\Ezequiel\Funções\CorrecaoCalculadora\CorrecaoCalculadora\bin\Debug\net6.0\CorrecaoCalculadora.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Funções\CorrecaoCalculadora\CorrecaoCalculadora\obj\Debug\net6.0\CorrecaoCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Funções\CorrecaoCalculadora\CorrecaoCalculadora\obj\Debug\net6.0\CorrecaoCalculadora.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Funções\CorrecaoCalculadora\CorrecaoCalculadora\obj\Debug\net6.0\CorrecaoCalculadora.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Funções\CorrecaoCalculadora\CorrecaoCalculadora\obj\Debug\net6.0\CorrecaoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Funções\CorrecaoCalculadora\CorrecaoCalculadora\obj\Debug\net6.0\CorrecaoCalculadora.dll
+C:\Users\57824564851\Desktop\Ezequiel\Funções\CorrecaoCalculadora\CorrecaoCalculadora\obj\Debug\net6.0\refint\CorrecaoCalculadora.dll
+C:\Users\57824564851\Desktop\Ezequiel\Funções\CorrecaoCalculadora\CorrecaoCalculadora\obj\Debug\net6.0\CorrecaoCalculadora.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Funções\CorrecaoCalculadora\CorrecaoCalculadora\obj\Debug\net6.0\CorrecaoCalculadora.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Funções\CorrecaoCalculadora\CorrecaoCalculadora\obj\Debug\net6.0\ref\CorrecaoCalculadora.dll
