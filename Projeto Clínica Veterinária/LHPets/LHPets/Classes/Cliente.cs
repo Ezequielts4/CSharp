@@ -2,9 +2,14 @@
 {
     public class Cliente
     {
-        public Cliente(string cpf_cpnj, string nome, string endereco, string rg_ie, char tipo, float valor, float valor_imposto, float total)
+        public Cliente() 
         {
-            this.cpf_cpnj = cpf_cpnj;
+
+        }
+
+        public Cliente(string cpf_cnpj, string nome, string endereco, string rg_ie, char tipo, float valor, float valor_imposto, float total)
+        {
+            this.cpf_cnpj = cpf_cnpj;
             this.nome = nome;
             this.endereco = endereco;
             this.rg_ie = rg_ie;
@@ -14,7 +19,7 @@
             this.total = total;
         }
 
-        public string cpf_cpnj { get; set; }
+        public string cpf_cnpj { get; set; }
         public string nome { get; set; }
         public string endereco { get; set; }
         public string rg_ie { get; set; }

@@ -1,3 +1,5 @@
+using LHPets.Classes;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -21,5 +23,11 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapRazorPages();
+
+Banco banco = new Banco();
+app.MapGet("/listaCliente", (HttpContext context) =>
+{
+    context.Response.WriteAsync(banco.GetListaString());
+});
 
 app.Run();
