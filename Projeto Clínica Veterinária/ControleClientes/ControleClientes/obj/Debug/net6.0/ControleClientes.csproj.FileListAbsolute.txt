@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Clínica Veterinária\ControleClientes\ControleClientes\bin\Debug\net6.0\ControleClientes.exe
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Clínica Veterinária\ControleClientes\ControleClientes\bin\Debug\net6.0\ControleClientes.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Clínica Veterinária\ControleClientes\ControleClientes\bin\Debug\net6.0\ControleClientes.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Clínica Veterinária\ControleClientes\ControleClientes\bin\Debug\net6.0\ControleClientes.dll
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Clínica Veterinária\ControleClientes\ControleClientes\bin\Debug\net6.0\ControleClientes.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Clínica Veterinária\ControleClientes\ControleClientes\obj\Debug\net6.0\ControleClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Clínica Veterinária\ControleClientes\ControleClientes\obj\Debug\net6.0\ControleClientes.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Clínica Veterinária\ControleClientes\ControleClientes\obj\Debug\net6.0\ControleClientes.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Clínica Veterinária\ControleClientes\ControleClientes\obj\Debug\net6.0\ControleClientes.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Clínica Veterinária\ControleClientes\ControleClientes\obj\Debug\net6.0\ControleClientes.dll
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Clínica Veterinária\ControleClientes\ControleClientes\obj\Debug\net6.0\refint\ControleClientes.dll
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Clínica Veterinária\ControleClientes\ControleClientes\obj\Debug\net6.0\ControleClientes.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Clínica Veterinária\ControleClientes\ControleClientes\obj\Debug\net6.0\ControleClientes.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Clínica Veterinária\ControleClientes\ControleClientes\obj\Debug\net6.0\ref\ControleClientes.dll

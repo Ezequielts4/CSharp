@@ -43,8 +43,7 @@ namespace LHPets.Classes
                     "</tr>";
             }
 
-            enviar += "</tboby></table></body></html>";
-
+            enviar += "</tbody></table></body></html>";
             return enviar;
         }
 
@@ -53,15 +52,16 @@ namespace LHPets.Classes
             try
             {
                 SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder(
-                    "Server=DESKTOP-NHM998K\\SQLEXPRESS01;" + 
-                    "Database=vendas;" + 
-                    "Integrated Security=true;" + 
-                    "Trusted_Connection=true;"
+                    "Server=DESKTOP-J3BH255\\SQLEXPRESS;" +
+                    "Database=vendas;" +
+                    "Integrated Security=true;" +
+                    "Trusted_Connection=true;" +
+                    "TrustServerCertificate=true;"
                     );
 
                 using (SqlConnection conn = new SqlConnection(builder.ConnectionString))
                 {
-                    string sql = "SELECT * FROM tblClientes";
+                    string sql = "SELECT * FROM tblclientes";
 
                     using (SqlCommand cmd = new SqlCommand(sql, conn))
                     {
@@ -77,10 +77,10 @@ namespace LHPets.Classes
                                     nome = tabela["nome"].ToString(),
                                     endereco = tabela["endereco"].ToString(),
                                     rg_ie = tabela["rg_ie"].ToString(),
-                                    tipo = (char)tabela["tipo"],
+                                    tipo = tabela["tipo"].ToString(),
                                     valor = (float)Convert.ToDecimal(tabela["valor"]),
                                     valor_imposto = (float)Convert.ToDecimal(tabela["valor_imposto"]),
-                                    total = (float)Convert.ToDecimal(tabela["total"])                                    
+                                    total = (float)Convert.ToDecimal(tabela["total"])
                                 });
                             }
                         }
@@ -93,6 +93,5 @@ namespace LHPets.Classes
                 throw;
             }
         }
-
     }
 }
