@@ -1,0 +1,14 @@
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Inventário\Inventário\Inventário\bin\Debug\net6.0\Inventário.exe
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Inventário\Inventário\Inventário\bin\Debug\net6.0\Inventário.deps.json
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Inventário\Inventário\Inventário\bin\Debug\net6.0\Inventário.runtimeconfig.json
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Inventário\Inventário\Inventário\bin\Debug\net6.0\Inventário.dll
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Inventário\Inventário\Inventário\bin\Debug\net6.0\Inventário.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Inventário\Inventário\Inventário\obj\Debug\net6.0\Inventário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Inventário\Inventário\Inventário\obj\Debug\net6.0\Inventário.AssemblyInfoInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Inventário\Inventário\Inventário\obj\Debug\net6.0\Inventário.AssemblyInfo.cs
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Inventário\Inventário\Inventário\obj\Debug\net6.0\Inventário.csproj.CoreCompileInputs.cache
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Inventário\Inventário\Inventário\obj\Debug\net6.0\Inventário.dll
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Inventário\Inventário\Inventário\obj\Debug\net6.0\refint\Inventário.dll
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Inventário\Inventário\Inventário\obj\Debug\net6.0\Inventário.pdb
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Inventário\Inventário\Inventário\obj\Debug\net6.0\Inventário.genruntimeconfig.cache
+C:\Users\57824564851\Desktop\Ezequiel\Projeto Inventário\Inventário\Inventário\obj\Debug\net6.0\ref\Inventário.dll
