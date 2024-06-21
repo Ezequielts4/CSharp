@@ -10,6 +10,7 @@ namespace Inventário.Services
     public class InventarioService
     {
         private List<Item> _itens;
+        private int qtd = 0;
         public InventarioService()
         {
             _itens = new List<Item>();
@@ -17,7 +18,9 @@ namespace Inventário.Services
 
         public void AdicionarItem(Item item)
         {
+            item.Id = qtd;
             _itens.Add(item);
+            qtd++;
         }
 
         public List<Item> ListarItens()
