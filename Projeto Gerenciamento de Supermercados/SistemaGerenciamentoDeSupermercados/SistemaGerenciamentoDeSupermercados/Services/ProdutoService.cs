@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 
 namespace SistemaGerenciamentoDeSupermercados.Services
 {
-    public abstract class ProdutoService
+    public class ProdutoService
     {
+        private int qtd = 0;
         private List<Produto> _produtos;
 
         public ProdutoService()
@@ -18,7 +19,9 @@ namespace SistemaGerenciamentoDeSupermercados.Services
 
         public void AdicionarProduto(Produto produto)
         {
+            produto.Id = qtd;
             _produtos.Add(produto);
+            qtd++;
         }
 
         public List<Produto> ListarProduto()
@@ -26,9 +29,9 @@ namespace SistemaGerenciamentoDeSupermercados.Services
             return _produtos;
         }
 
-        public Produto BuscarPorId(int id)
+        public Produto BuscarProdutoPorId(int id)
         {
-            return _produtos.FirstOrDefault(i => i.IdP == id);
+            return _produtos.FirstOrDefault(i => i.Id == id);
         }
 
         public void RemoverProduto(Produto produto)

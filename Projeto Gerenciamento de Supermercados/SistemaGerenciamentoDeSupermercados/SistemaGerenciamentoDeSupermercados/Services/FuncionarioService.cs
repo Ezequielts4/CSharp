@@ -9,6 +9,7 @@ namespace SistemaGerenciamentoDeSupermercados.Services
 {
     public class FuncionarioService
     {
+        private int qtd = 0;
         private List<Funcionario> _funcionarios;
 
         public FuncionarioService()
@@ -18,7 +19,14 @@ namespace SistemaGerenciamentoDeSupermercados.Services
 
         public void AdicionarFuncionario(Funcionario funcionario)
         {
+            funcionario.Id = qtd;
             _funcionarios.Add(funcionario);
+            qtd++;
+        }
+
+        public void RemoverFuncionario(Funcionario funcionario)
+        {
+            _funcionarios.Remove(funcionario);
         }
 
         public List<Funcionario> ListarFuncionario()
@@ -26,14 +34,9 @@ namespace SistemaGerenciamentoDeSupermercados.Services
             return _funcionarios;
         }
 
-        public Funcionario BuscarPorId(int id)
+        public Funcionario BuscarFuncionarioPorId(int id)
         {
             return _funcionarios.FirstOrDefault(i => i.Id == id);
-        }
-
-        public void RemoverFuncionario(Funcionario funcionario)
-        {
-            _funcionarios.Remove(funcionario);
         }
     }
 }
