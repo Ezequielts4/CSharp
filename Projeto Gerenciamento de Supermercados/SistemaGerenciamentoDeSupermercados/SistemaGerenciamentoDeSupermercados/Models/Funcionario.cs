@@ -16,6 +16,7 @@ namespace SistemaGerenciamentoDeSupermercados.Models
         {
             Funcionario funcionario = new Funcionario();
 
+            Console.WriteLine(); // para pular uma linha
             Console.Write("Insira o nome do funcionário: ");
             funcionario.Nome = Console.ReadLine();
 
@@ -28,11 +29,15 @@ namespace SistemaGerenciamentoDeSupermercados.Models
             Console.Write("Insira o horário de trabalho: ");
             funcionario.HorarioDeTrabalho = int.Parse(Console.ReadLine());
 
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine("Funcionário adicionado com sucesso!");
+
             return funcionario;
         }
 
         public override void Atualizar()
         {
+            Console.WriteLine(); // para pular uma linha
             Console.Write("Atualize o nome do funcionário: ");
             Nome = Console.ReadLine();
 
@@ -44,11 +49,15 @@ namespace SistemaGerenciamentoDeSupermercados.Models
 
             Console.Write("Atualize o horário de trabalho: ");
             HorarioDeTrabalho = int.Parse(Console.ReadLine());
+
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine("Funcionário atualizado com sucesso!");
         }
 
         public override void MostrarDetalhes()
         {
-            Console.WriteLine($"ID: {Id})\nNome: {Nome}\nCargo: {Cargo}\nNúmero de registro: {NumeroDeRegistro}\nHorário de Trabalho: {HorarioDeTrabalho}");
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine($"ID: {Id}\nNome: {Nome}\nCargo: {Cargo}\nNúmero de registro: {NumeroDeRegistro}\nHorário de Trabalho: {HorarioDeTrabalho}");
         }
     }
 }

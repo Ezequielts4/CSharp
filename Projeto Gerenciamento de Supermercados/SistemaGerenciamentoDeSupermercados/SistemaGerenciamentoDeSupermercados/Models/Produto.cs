@@ -11,12 +11,13 @@ namespace SistemaGerenciamentoDeSupermercados.Models
         public int Id { get; set; }
         public string Nome { get; set; }
         public string Categoria { get; set; }
-        public int Preco { get; set; }
+        public float Preco { get; set; }
         public int QuantidadeEmEstoque { get; set; }
         public int DataDeValidade { get; set; }
 
-        public virtual void CriarProduto()
+        public void CriarProduto()
         {
+            Console.WriteLine(); // para pular uma linha
             Console.Write("Insira o nome do produto: ");
             Nome = Console.ReadLine();
 
@@ -24,17 +25,21 @@ namespace SistemaGerenciamentoDeSupermercados.Models
             Categoria = Console.ReadLine();
 
             Console.Write("Insira o preço do produto: ");
-            Preco = int.Parse(Console.ReadLine());
+            Preco = float.Parse(Console.ReadLine());
 
             Console.Write("Insira a quantidade de produto em estoque: ");
             QuantidadeEmEstoque = int.Parse(Console.ReadLine());
 
             Console.Write("Insira a data de validade: ");
             DataDeValidade = int.Parse(Console.ReadLine());
+
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine("Produto adicionado com sucesso!");
         }
 
         public virtual void AtualizarProduto()
         {
+            Console.WriteLine(); // para pular uma linha
             Console.Write("Atualize o nome do produto: ");
             Nome = Console.ReadLine();
 
@@ -42,18 +47,22 @@ namespace SistemaGerenciamentoDeSupermercados.Models
             Categoria = Console.ReadLine();
 
             Console.Write("Atualize o preço do produto: ");
-            Preco = int.Parse(Console.ReadLine());
+            Preco = float.Parse(Console.ReadLine());
 
             Console.Write("Atualize a quantidade de produto em estoque: ");
             QuantidadeEmEstoque = int.Parse(Console.ReadLine());
 
             Console.Write("Atualize a data de validade: ");
             DataDeValidade = int.Parse(Console.ReadLine());
+
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine("Produto atualizado com sucesso!");
         }
 
         public virtual void MostrarDetalhes()
         {
-            Console.WriteLine($"ID: {Id})\nNome: {Nome}\nCategoria: {Categoria}\nPreço: {Preco:C}\nQuantidade em estoque: {QuantidadeEmEstoque}\nData de validade: {DataDeValidade}");
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine($"ID: {Id}\nNome: {Nome}\nCategoria: {Categoria}\nPreço: {Preco:C}\nQuantidade em estoque: {QuantidadeEmEstoque}\nData de validade: {DataDeValidade}");
         }
     }
 }

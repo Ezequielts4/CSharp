@@ -10,12 +10,13 @@ namespace SistemaGerenciamentoDeSupermercados.Models
     {
         public string DataDeNascimento { get; set; }
         public string Endereco { get; set; }
-        public int Telefone { get; set; }
+        public float Telefone { get; set; }
 
         public static Cliente CriarCliente()
         {
             Cliente cliente = new Cliente();
 
+            Console.WriteLine(); // para pular uma linha
             Console.Write("Insira o nome ");
             cliente.Nome = Console.ReadLine();
 
@@ -26,12 +27,16 @@ namespace SistemaGerenciamentoDeSupermercados.Models
             cliente.Endereco = Console.ReadLine();
 
             Console.Write("Insira o telefone: ");
-            cliente.Telefone = int.Parse(Console.ReadLine());
+            cliente.Telefone = float.Parse(Console.ReadLine());
+
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine("Cliente adicionado com sucesso!");
 
             return cliente;
         }
         public override void Atualizar()
         {
+            Console.WriteLine(); // para pular uma linha
             Console.Write("Atualize o nome do cliente: ");
             Nome = Console.ReadLine();
 
@@ -42,12 +47,16 @@ namespace SistemaGerenciamentoDeSupermercados.Models
             Endereco = Console.ReadLine();
 
             Console.Write("Atualize o telefone: ");
-            Telefone = int.Parse(Console.ReadLine());
+            Telefone = float.Parse(Console.ReadLine());
+
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine("Cliente atualizado com sucesso!");
         }
 
         public override void MostrarDetalhes()
         {
-            Console.WriteLine($"ID: {Id})\nNome: {Nome}\nData de nascimento: {DataDeNascimento}\nEndereço: {Endereco}\nTelefone: {Telefone}");
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine($"ID: {Id}\nNome: {Nome}\nData de nascimento: {DataDeNascimento}\nEndereço: {Endereco}\nTelefone: {Telefone}");
         }
     }
 }
