@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SistemaGerenciamentoDeSupermercados.Utils;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,13 +11,18 @@ namespace SistemaGerenciamentoDeSupermercados.Models
     {
         public string Cargo { get; set; }
         public int NumeroDeRegistro { get; set; }
-        public int HorarioDeTrabalho { get; set; }
+        public string HorarioDeTrabalho { get; set; }
 
         public static Funcionario CriarFuncionario()
         {
             Funcionario funcionario = new Funcionario();
 
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.WriteLine("\n   Preencha as informações abaixo para cadastrar um funcionário   ");
+            Console.ResetColor();
             Console.WriteLine(); // para pular uma linha
+
             Console.Write("Insira o nome do funcionário: ");
             funcionario.Nome = Console.ReadLine();
 
@@ -27,31 +33,43 @@ namespace SistemaGerenciamentoDeSupermercados.Models
             funcionario.NumeroDeRegistro = int.Parse(Console.ReadLine());
 
             Console.Write("Insira o horário de trabalho: ");
-            funcionario.HorarioDeTrabalho = int.Parse(Console.ReadLine());
+            funcionario.HorarioDeTrabalho = Console.ReadLine();
 
             Console.WriteLine(); // para pular uma linha
-            Console.WriteLine("Funcionário adicionado com sucesso!");
+            DisplayHelper.BarraCarregamento("Cadastrando um novo funcionário", 1000, 3, "VERDE");
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine("\nFuncionário adicionado com sucesso!");
+            Console.Write("Pressione qualquer tecla para continuar...");
+            Console.ReadKey();
 
             return funcionario;
         }
 
         public override void Atualizar()
         {
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.WriteLine("\n   Atualize os dados do funcionário abaixo   ");
+            Console.ResetColor();
+
             Console.WriteLine(); // para pular uma linha
-            Console.Write("Atualize o nome do funcionário: ");
+            Console.Write("Atualize o nome: ");
             Nome = Console.ReadLine();
 
-            Console.Write("Atualize o cargo do funcionário: ");
+            Console.Write("Atualize o cargo: ");
             Cargo = Console.ReadLine();
 
             Console.Write("Atualize o número de registro: ");
             NumeroDeRegistro = int.Parse(Console.ReadLine());
 
             Console.Write("Atualize o horário de trabalho: ");
-            HorarioDeTrabalho = int.Parse(Console.ReadLine());
+            HorarioDeTrabalho = Console.ReadLine();
 
             Console.WriteLine(); // para pular uma linha
-            Console.WriteLine("Funcionário atualizado com sucesso!");
+            DisplayHelper.BarraCarregamento("Atualizando dados", 1000, 3, "CIANO");
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine("\nFuncionário atualizado com sucesso!");
+            Console.Write("Pressione qualquer tecla para continuar...");
         }
 
         public override void MostrarDetalhes()

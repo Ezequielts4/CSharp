@@ -9,8 +9,8 @@ namespace SistemaGerenciamentoDeSupermercados.Services
 {
     public class ProdutoService
     {
-        private int qtd = 0;
         private List<Produto> _produtos;
+        private int qtd = 1;
 
         public ProdutoService()
         {

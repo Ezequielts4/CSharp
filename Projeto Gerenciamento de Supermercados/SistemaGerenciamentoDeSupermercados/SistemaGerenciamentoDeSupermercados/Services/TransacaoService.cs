@@ -9,9 +9,9 @@ namespace SistemaGerenciamentoDeSupermercados.Services
 {
     public class TransacaoService
     {
-        private int qtd = 0;
+        private int qtd = 1;
         private List<TransacaoDeVendas> _transacao;
-        
+
         public TransacaoService()
         {
             _transacao = new List<TransacaoDeVendas>();

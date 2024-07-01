@@ -1,4 +1,6 @@
-﻿using SistemaGerenciamentoDeSupermercados.Services;
+﻿using SistemaGerenciamentoDeSupermercados;
+using SistemaGerenciamentoDeSupermercados.Models;
+using SistemaGerenciamentoDeSupermercados.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,9 +11,9 @@ namespace SistemaGerenciamentoDeSupermercados.Utils
 {
     public static class DisplayHelper
     {
-        public static void MostrarDetalhes(ClienteService detalhesCliente)
+        public static void MostrarDetalhes(ClienteService clienteService)
         {
-            var itens = detalhesCliente.ListarClientes();
+            var itens = clienteService.ListarClientes();
             foreach (var item in itens)
             {
                 item.MostrarDetalhes();
@@ -43,6 +45,33 @@ namespace SistemaGerenciamentoDeSupermercados.Utils
             {
                 item.MostrarDetalhes();
             }
+        }
+
+        public static void BarraCarregamento(string texto, int tempo, int quantidade, string cor)
+        {
+            if (cor == "VERDE")
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+            }
+
+            else if (cor == "VERMELHO")
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+            }
+
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Cyan;
+            }
+
+            Console.Write(texto);
+            for (int i = 0; i < quantidade; i++)
+            {
+                Console.Write(".");
+                Thread.Sleep(tempo);
+            }
+
+            Console.ResetColor();
         }
     }
 }

@@ -9,7 +9,7 @@ namespace SistemaGerenciamentoDeSupermercados.Services
 {
     public class FuncionarioService
     {
-        private int qtd = 0;
+        private int qtd = 1;
         private List<Funcionario> _funcionarios;
 
         public FuncionarioService()

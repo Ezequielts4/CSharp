@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using SistemaGerenciamentoDeSupermercados.Services;
+using SistemaGerenciamentoDeSupermercados.Utils;
 
 namespace SistemaGerenciamentoDeSupermercados.Models
 {
@@ -17,25 +13,47 @@ namespace SistemaGerenciamentoDeSupermercados.Models
 
         public void CriarTransacao()
         {
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.WriteLine("\n   Preencha as informações abaixo para realizar uma transação   ");
+            Console.ResetColor();
             Console.WriteLine(); // para pular uma linha
+
             Console.Write("Insira o ID do cliente: ");
             IdDoCliente = int.Parse(Console.ReadLine());
 
-            Console.Write("Insira o ID do funcionário: ");
+            Console.WriteLine(); // para pular uma linha
+            DisplayHelper.BarraCarregamento("Procurando cliente", 700, 3, "CIANO");
+            Console.WriteLine(); // para pular uma linha
+
+            Console.Write("\nInsira o ID do funcionário: ");
             IdDoFuncionario = int.Parse(Console.ReadLine());
 
-            Console.Write("Insira o(s) produto(s) comprado(s): ");
+            Console.WriteLine(); // para pular uma linha
+            DisplayHelper.BarraCarregamento("Procurando funcionário", 700, 3, "CIANO");
+            Console.WriteLine(); // para pular uma linha
+
+            Console.Write("\nInsira o(s) produto(s) comprado(s): ");
             ListaDeProdutosComprados = Console.ReadLine();
 
-            Console.Write("Insira o valor total da(s) venda(s): ");
+            Console.Write("\nInsira o valor total da(s) venda(s): ");
             ValorTotal = float.Parse(Console.ReadLine());
 
             Console.WriteLine(); // para pular uma linha
-            Console.WriteLine("Transação adicionada com sucesso!");
+            DisplayHelper.BarraCarregamento("Cadastrando uma nova transação", 1000, 3, "VERDE");
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine("\nTransação realizada com sucesso!");
+            Console.Write("Pressione qualquer tecla para continuar...");
+            Console.ReadKey();
         }
 
-        public virtual void AtualizarTransacao()
+        public void AtualizarTransacao()
         {
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.WriteLine("\n   Atualize os dados da transação abaixo   ");
+            Console.ResetColor();
+
             Console.WriteLine(); // para pular uma linha
             Console.Write("Atualize o ID do cliente: ");
             IdDoCliente = int.Parse(Console.ReadLine());
@@ -50,10 +68,13 @@ namespace SistemaGerenciamentoDeSupermercados.Models
             ValorTotal = float.Parse(Console.ReadLine());
 
             Console.WriteLine(); // para pular uma linha
-            Console.WriteLine("Transação atualizada com sucesso!");
+            DisplayHelper.BarraCarregamento("Atualizando dados", 1000, 3, "CIANO");
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine("\nTransação atualizada com sucesso!");
+            Console.Write("Pressione qualquer tecla para continuar...");
         }
-        
-        public virtual void MostrarDetalhes()
+
+        public void MostrarDetalhes()
         {
             var DataHora = DateTime.Now;
 

@@ -10,7 +10,8 @@ namespace SistemaGerenciamentoDeSupermercados.Services
     public class ClienteService
     {
         private List<Cliente> _cliente;
-        private int qtd = 0;
+        private int qtd = 1;
+
         public ClienteService()
         {
             _cliente = new List<Cliente>();
@@ -36,6 +37,6 @@ namespace SistemaGerenciamentoDeSupermercados.Services
         public Cliente BuscarClientePorId(int id)
         {
             return _cliente.FirstOrDefault(i => i.Id == id);
-        } 
+        }
     }
 }

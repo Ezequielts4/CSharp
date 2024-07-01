@@ -10,6 +10,9 @@ FuncionarioService funcionarioService = new FuncionarioService();
 ProdutoService produtoService = new ProdutoService();
 TransacaoService transacaoService = new TransacaoService();
 
+Produto produto = new Produto();
+TransacaoDeVendas transacao = new TransacaoDeVendas();
+
 bool continuar = true;
 
 while (continuar)
@@ -21,30 +24,30 @@ while (continuar)
     {
         case 1:
             MenuClientes();
-            Console.ReadKey();
             break;
 
         case 2:
             MenuFuncionario();
-            Console.ReadKey();
             break;
 
         case 3:
             MenuProduto();
-            Console.ReadKey();
             break;
 
         case 4:
             MenuTransacao();
-            Console.ReadKey();
             break;
 
         case 5:
+            Console.WriteLine(); // para pular uma linha
+            DisplayHelper.BarraCarregamento("Desligando sistema", 700, 3, "VERMELHO");
+            Console.WriteLine(); // para pular uma linha
             Environment.Exit(0);
             break;
 
         default:
-            Console.WriteLine("Opção inválida, tente novamente...");
+            Console.WriteLine("Por favor, insira um valor correspondente a tabela... ");
+            Console.Write("-> ");
             break;
     }
 }
@@ -56,7 +59,10 @@ void MenuPrincipal()
     Console.Clear();
     Console.WriteLine("---------- Sistema de Gerenciamento de Supermercado ----------");
     Console.WriteLine(); // para pular uma linha
-    Console.WriteLine("Escolha o que deseja gerenciar abaixo");
+    Console.ForegroundColor = ConsoleColor.Black;
+    Console.BackgroundColor = ConsoleColor.White;
+    Console.WriteLine("   Escolha o que deseja gerenciar abaixo   ");
+    Console.ResetColor();
     Console.WriteLine(); // para pular uma linha
     Console.WriteLine("1. Gerenciar Clientes");
     Console.WriteLine("2. Gerenciar Funcionários");
@@ -100,6 +106,10 @@ void MenuClientes()
             break;
 
         case 4:
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.WriteLine("\n   Clientes cadastrados   ");
+            Console.ResetColor();
             DisplayHelper.MostrarDetalhes(clienteService);
             Console.ReadKey();
             break;
@@ -113,46 +123,78 @@ void MenuClientes()
             Console.ReadKey();
             break;
     }
-}
 
-void RemoverCliente(ClienteService clienteService)
-{
-    Console.Write("\nDigite o ID do cliente a ser removido: ");
-    int id = int.Parse(Console.ReadLine());
-
-    Cliente cliente = clienteService.BuscarClientePorId(id);
-
-    if (cliente != null)
+    void RemoverCliente(ClienteService clienteService)
     {
-        clienteService.RemoverCliente(cliente);
-        Console.WriteLine("Cliente removido com sucesso!");
-        Console.ReadKey();
+        var lista = clienteService.ListarClientes();
+
+        Console.ForegroundColor = ConsoleColor.Black;
+        Console.BackgroundColor = ConsoleColor.White;
+        Console.WriteLine("\n   Clientes cadastrados   ");
+        Console.ResetColor();
+        Console.WriteLine(); // para pular uma linha
+
+        foreach (var item in lista)
+        {
+            Console.WriteLine($"ID: {item.Id} || Nome: {item.Nome}");
+        }
+
+        Console.Write("\nDigite o ID do cliente a ser removido: ");
+        int id = int.Parse(Console.ReadLine());
+
+        Cliente cliente = clienteService.BuscarClientePorId(id);
+
+        if (cliente != null)
+        {
+            clienteService.RemoverCliente(cliente);
+            Console.WriteLine(); // para pular uma linha
+            DisplayHelper.BarraCarregamento("Removendo cliente", 1000, 3, "VERMELHO");
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine("\nCliente removido com sucesso!");
+            Console.Write("Pressione qualquer tecla para continuar...");
+        }
+
+        else
+        {
+            Console.WriteLine(); // para pular uma linha
+            DisplayHelper.BarraCarregamento("Procurando cliente", 1000, 3, "CIANO");
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine("\nCliente não encontrado, verifique se os dados estão corretos...");
+        }
     }
 
-    else
+    void AtualizarCliente(ClienteService clienteService)
     {
-        Console.WriteLine("Cliente não encontrado, tente novamente...");
-        Console.ReadKey();
-    }
-}
+        var lista = clienteService.ListarClientes();
 
-void AtualizarCliente(ClienteService clienteService)
-{
-    Console.Write("\nDigite o ID do cliente a ser atualizado: ");
-    int id = int.Parse(Console.ReadLine());
+        Console.ForegroundColor = ConsoleColor.Black;
+        Console.BackgroundColor = ConsoleColor.White;
+        Console.WriteLine("\n   Clientes cadastrados   ");
+        Console.ResetColor();
+        Console.WriteLine(); // para pular uma linha
 
-    Cliente cliente = clienteService.BuscarClientePorId(id);
+        foreach (var item in lista)
+        {
+            Console.WriteLine($"ID: {item.Id} || Nome: {item.Nome}");
+        }
 
-    if (cliente != null)
-    {
-        cliente.Atualizar();
-        Console.ReadKey();
-    }
+        Console.Write("\nDigite o ID do cliente a ser atualizado: ");
+        int id = int.Parse(Console.ReadLine());
 
-    else
-    {
-        Console.WriteLine("Cliente não encontrado, tente novamente...");
-        Console.ReadKey();
+        Cliente cliente = clienteService.BuscarClientePorId(id);
+
+        if (cliente != null)
+        {
+            cliente.Atualizar();
+        }
+
+        else
+        {
+            Console.WriteLine(); // para pular uma linha
+            DisplayHelper.BarraCarregamento("Procurando cliente", 1000, 3, "CIANO");
+            Console.WriteLine(); // para pular uma linha
+            Console.WriteLine("\nCliente não encontrado, verifique se os dados estão corretos...");
+        }
     }
 }
 
@@ -189,6 +231,10 @@ void MenuFuncionario()
             break;
 
         case 4:
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.WriteLine("\n   Funcionários cadastrados   ");
+            Console.ResetColor();
             DisplayHelper.MostrarDetalhes(funcionarioService);
             Console.ReadKey();
             break;
@@ -206,6 +252,19 @@ void MenuFuncionario()
 
 void RemoverFuncionario(FuncionarioService funcionarioService)
 {
+    var lista = funcionarioService.ListarFuncionario();
+
+    Console.ForegroundColor = ConsoleColor.Black;
+    Console.BackgroundColor = ConsoleColor.White;
+    Console.WriteLine("\n   Funcionários cadastrados   ");
+    Console.ResetColor();
+    Console.WriteLine(); // para pular uma linha
+
+    foreach (var item in lista)
+    {
+        Console.WriteLine($"ID: {item.Id} || Nome: {item.Nome}");
+    }
+
     Console.Write("\nDigite o ID do funcionário a ser removido: ");
     int id = int.Parse(Console.ReadLine());
 
@@ -214,19 +273,38 @@ void RemoverFuncionario(FuncionarioService funcionarioService)
     if (funcionario != null)
     {
         funcionarioService.RemoverFuncionario(funcionario);
-        Console.WriteLine("Funcionário removido com sucesso!");
-        Console.ReadKey();
+
+        Console.WriteLine(); // para pular uma linha
+        DisplayHelper.BarraCarregamento("Removendo funcionário", 1000, 3, "VERMELHO");
+        Console.WriteLine(); // para pular uma linha
+        Console.WriteLine("\nFuncionário removido com sucesso!");
+        Console.Write("Pressione qualquer tecla para continuar...");
     }
 
     else
     {
-        Console.WriteLine("Funcionário não encontrado, tente novamente...");
-        Console.ReadKey();
+        Console.WriteLine(); // para pular uma linha
+        DisplayHelper.BarraCarregamento("Procurando funcionário", 1000, 3, "CIANO");
+        Console.WriteLine(); // para pular uma linha
+        Console.WriteLine("\nFuncionário não encontrado, verifique se os dados estão corretos...");
     }
 }
 
 void AtualizarFuncionario(FuncionarioService funcionarioService)
 {
+    var lista = funcionarioService.ListarFuncionario();
+
+    Console.ForegroundColor = ConsoleColor.Black;
+    Console.BackgroundColor = ConsoleColor.White;
+    Console.WriteLine("\n   Funcionários cadastrados   ");
+    Console.ResetColor();
+    Console.WriteLine(); // para pular uma linha
+
+    foreach (var item in lista)
+    {
+        Console.WriteLine($"ID: {item.Id} || Nome: {item.Nome}");
+    }
+
     Console.Write("\nDigite o ID do funcionário a ser atualizado: ");
     int id = int.Parse(Console.ReadLine());
 
@@ -235,13 +313,14 @@ void AtualizarFuncionario(FuncionarioService funcionarioService)
     if (funcionario != null)
     {
         funcionario.Atualizar();
-        Console.ReadKey();
     }
 
     else
     {
-        Console.WriteLine("Funcionário não encontrado, tente novamente...");
-        Console.ReadKey();
+        Console.WriteLine(); // para pular uma linha
+        DisplayHelper.BarraCarregamento("Procurando funcionário", 1000, 3, "CIANO");
+        Console.WriteLine(); // para pular uma linha
+        Console.WriteLine("\nFuncionário não encontrado, verifique se os dados estão corretos...");
     }
 }
 
@@ -263,8 +342,6 @@ void MenuProduto()
     switch (escolha)
     {
         case 1:
-            Produto produto = new Produto();
-
             produto.CriarProduto();
             produtoService.AdicionarProduto(produto);
             break;
@@ -280,6 +357,10 @@ void MenuProduto()
             break;
 
         case 4:
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.WriteLine("\n   Produtos cadastrados   ");
+            Console.ResetColor();
             DisplayHelper.MostrarDetalhes(produtoService);
             Console.ReadKey();
             break;
@@ -297,6 +378,19 @@ void MenuProduto()
 
 void RemoverProduto(ProdutoService produtoService)
 {
+    var lista = produtoService.ListarProduto();
+
+    Console.ForegroundColor = ConsoleColor.Black;
+    Console.BackgroundColor = ConsoleColor.White;
+    Console.WriteLine("\n   Produtos cadastrados   ");
+    Console.ResetColor();
+    Console.WriteLine(); // para pular uma linha
+
+    foreach (var item in lista)
+    {
+        Console.WriteLine($"ID: {item.Id} || Nome: {item.Nome}");
+    }
+
     Console.Write("\nDigite o ID do produto a ser removido: ");
     int id = int.Parse(Console.ReadLine());
 
@@ -305,19 +399,38 @@ void RemoverProduto(ProdutoService produtoService)
     if (produto != null)
     {
         produtoService.RemoverProduto(produto);
-        Console.WriteLine("Produto removido com sucesso!");
-        Console.ReadKey();
+
+        Console.WriteLine(); // para pular uma linha
+        DisplayHelper.BarraCarregamento("Removendo produto", 1000, 3, "VERMELHO");
+        Console.WriteLine(); // para pular uma linha
+        Console.WriteLine("\nProduto removido com sucesso!");
+        Console.Write("Pressione qualquer tecla para continuar...");
     }
 
     else
     {
-        Console.WriteLine("Produto não encontrado, tente novamente...");
-        Console.ReadKey();
+        Console.WriteLine(); // para pular uma linha
+        DisplayHelper.BarraCarregamento("Procurando produto", 1000, 3, "CIANO");
+        Console.WriteLine(); // para pular uma linha
+        Console.WriteLine("\nProduto não encontrado, verifique se os dados estão corretos...");
     }
 }
 
 void AtualizarProduto(ProdutoService produtoService)
 {
+    var lista = produtoService.ListarProduto();
+
+    Console.ForegroundColor = ConsoleColor.Black;
+    Console.BackgroundColor = ConsoleColor.White;
+    Console.WriteLine("\n   Produtos cadastrados   ");
+    Console.ResetColor();
+    Console.WriteLine(); // para pular uma linha
+
+    foreach (var item in lista)
+    {
+        Console.WriteLine($"ID: {item.Id} || Nome: {item.Nome}");
+    }
+
     Console.Write("\nDigite o ID do produto a ser atualizado: ");
     int id = int.Parse(Console.ReadLine());
 
@@ -326,13 +439,14 @@ void AtualizarProduto(ProdutoService produtoService)
     if (produto != null)
     {
         produto.AtualizarProduto();
-        Console.ReadKey();
     }
 
     else
     {
-        Console.WriteLine("Produto não encontrado, tente novamente...");
-        Console.ReadKey();
+        Console.WriteLine(); // para pular uma linha
+        DisplayHelper.BarraCarregamento("Procurando produto", 1000, 3, "CIANO");
+        Console.WriteLine(); // para pular uma linha
+        Console.WriteLine("\nProduto não encontrado, verifique se os dados estão corretos...");
     }
 }
 
@@ -354,8 +468,6 @@ void MenuTransacao()
     switch (escolha)
     {
         case 1:
-            TransacaoDeVendas transacao = new TransacaoDeVendas();
-
             transacao.CriarTransacao();
             transacaoService.AdicionarTransacao(transacao);
             break;
@@ -371,6 +483,10 @@ void MenuTransacao()
             break;
 
         case 4:
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.WriteLine("\n   Transações cadastradas   ");
+            Console.ResetColor();
             DisplayHelper.MostrarDetalhes(transacaoService);
             Console.ReadKey();
             break;
@@ -388,6 +504,19 @@ void MenuTransacao()
 
 void RemoverTransacao(TransacaoService transacaoService)
 {
+    var lista = transacaoService.ListarTransacao();
+
+    Console.ForegroundColor = ConsoleColor.Black;
+    Console.BackgroundColor = ConsoleColor.White;
+    Console.WriteLine("\n   Transações cadastradas   ");
+    Console.ResetColor();
+    Console.WriteLine(); // para pular uma linha
+
+    foreach (var item in lista)
+    {
+        Console.WriteLine($"ID: {item.Id}\nFuncionário: {item.IdDoFuncionario}\nCliente: {item.IdDoCliente}\nProduto(s): {item.ListaDeProdutosComprados}");
+    }
+
     Console.Write("\nDigite o ID da transação a ser removida: ");
     int id = int.Parse(Console.ReadLine());
 
@@ -396,19 +525,38 @@ void RemoverTransacao(TransacaoService transacaoService)
     if (transacao != null)
     {
         transacaoService.RemoverTransacao(transacao);
-        Console.WriteLine("Transação removido com sucesso!");
-        Console.ReadKey();
+
+        Console.WriteLine(); // para pular uma linha
+        DisplayHelper.BarraCarregamento("Removendo transação", 1000, 3, "VERMELHO");
+        Console.WriteLine(); // para pular uma linha
+        Console.WriteLine("\nTransação removida com sucesso!");
+        Console.Write("Pressione qualquer tecla para continuar...");
     }
 
     else
     {
-        Console.WriteLine("Transação não encontrada, tente novamente...");
-        Console.ReadKey();
+        Console.WriteLine(); // para pular uma linha
+        DisplayHelper.BarraCarregamento("Procurando transação", 1000, 3, "CIANO");
+        Console.WriteLine(); // para pular uma linha
+        Console.WriteLine("\nTransação não encontrada, verifique se os dados estão corretos...");
     }
 }
 
 void AtualizarTransacao(TransacaoService transacaoService)
 {
+    var lista = transacaoService.ListarTransacao();
+
+    Console.ForegroundColor = ConsoleColor.Black;
+    Console.BackgroundColor = ConsoleColor.White;
+    Console.WriteLine("\n   Transações cadastradas   ");
+    Console.ResetColor();
+    Console.WriteLine(); // para pular uma linha
+
+    foreach (var item in lista)
+    {
+        Console.WriteLine($"ID: {item.Id}\nFuncionário: {item.IdDoFuncionario}\nCliente: {item.IdDoCliente}\nProduto(s): {item.ListaDeProdutosComprados}");
+    }
+
     Console.Write("\nDigite o ID da transação a ser atualizada: ");
     int id = int.Parse(Console.ReadLine());
 
@@ -417,12 +565,13 @@ void AtualizarTransacao(TransacaoService transacaoService)
     if (transacao != null)
     {
         transacao.AtualizarTransacao();
-        Console.ReadKey();
     }
 
     else
     {
-        Console.WriteLine("Transação não encontrada, tente novamente...");
-        Console.ReadKey();
+        Console.WriteLine(); // para pular uma linha
+        DisplayHelper.BarraCarregamento("Procurando transação", 1000, 3, "CIANO");
+        Console.WriteLine(); // para pular uma linha
+        Console.WriteLine("\nTransação não encontrada, verifique se os dados estão corretos...");
     }
 }
