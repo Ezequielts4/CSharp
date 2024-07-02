@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|c:\\users\\vanes\\onedrive\\documentos\\temporary\\csharp\\projeto gerenciamento de supermercados\\sistemagerenciamentodesupermercados\\sistemagerenciamentodesupermercados\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|solutionrelative:sistemagerenciamentodesupermercados\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|c:\\users\\vanes\\onedrive\\documentos\\temporary\\csharp\\projeto gerenciamento de supermercados\\sistemagerenciamentodesupermercados\\sistemagerenciamentodesupermercados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|solutionrelative:sistemagerenciamentodesupermercados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|c:\\users\\vanes\\onedrive\\documentos\\temporary\\csharp\\projeto gerenciamento de supermercados\\sistemagerenciamentodesupermercados\\sistemagerenciamentodesupermercados\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|solutionrelative:sistemagerenciamentodesupermercados\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|c:\\users\\vanes\\onedrive\\documentos\\temporary\\csharp\\projeto gerenciamento de supermercados\\sistemagerenciamentodesupermercados\\sistemagerenciamentodesupermercados\\utils\\displayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|solutionrelative:sistemagerenciamentodesupermercados\\utils\\displayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|c:\\users\\vanes\\onedrive\\documentos\\temporary\\csharp\\projeto gerenciamento de supermercados\\sistemagerenciamentodesupermercados\\sistemagerenciamentodesupermercados\\models\\transacaodevendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|solutionrelative:sistemagerenciamentodesupermercados\\models\\transacaodevendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|c:\\users\\vanes\\onedrive\\documentos\\temporary\\csharp\\projeto gerenciamento de supermercados\\sistemagerenciamentodesupermercados\\sistemagerenciamentodesupermercados\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|solutionrelative:sistemagerenciamentodesupermercados\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|c:\\users\\vanes\\onedrive\\documentos\\temporary\\csharp\\projeto gerenciamento de supermercados\\sistemagerenciamentodesupermercados\\sistemagerenciamentodesupermercados\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|solutionrelative:sistemagerenciamentodesupermercados\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|c:\\users\\vanes\\onedrive\\documentos\\temporary\\csharp\\projeto gerenciamento de supermercados\\sistemagerenciamentodesupermercados\\sistemagerenciamentodesupermercados\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348EA2F8-2384-4379-97BD-01201A2CDBBD}|SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj|solutionrelative:sistemagerenciamentodesupermercados\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "SistemaGerenciamentoDeSupermercados\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "SistemaGerenciamentoDeSupermercados\\Services\\ProdutoService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:10:34.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "SistemaGerenciamentoDeSupermercados\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Models\\Pessoa.cs",
+              "RelativeToolTip": "SistemaGerenciamentoDeSupermercados\\Models\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:10:34.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransacaoDeVendas.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Models\\TransacaoDeVendas.cs",
+              "RelativeDocumentMoniker": "SistemaGerenciamentoDeSupermercados\\Models\\TransacaoDeVendas.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Models\\TransacaoDeVendas.cs",
+              "RelativeToolTip": "SistemaGerenciamentoDeSupermercados\\Models\\TransacaoDeVendas.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:10:34.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "SistemaGerenciamentoDeSupermercados\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Models\\Produto.cs",
+              "RelativeToolTip": "SistemaGerenciamentoDeSupermercados\\Models\\Produto.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA0wBwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:10:34.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "SistemaGerenciamentoDeSupermercados\\Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Models\\Funcionario.cs",
+              "RelativeToolTip": "SistemaGerenciamentoDeSupermercados\\Models\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:10:34.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "SistemaGerenciamentoDeSupermercados\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Models\\Cliente.cs",
+              "RelativeToolTip": "SistemaGerenciamentoDeSupermercados\\Models\\Cliente.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:10:34.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayHelper.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Utils\\DisplayHelper.cs",
+              "RelativeDocumentMoniker": "SistemaGerenciamentoDeSupermercados\\Utils\\DisplayHelper.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Utils\\DisplayHelper.cs",
+              "RelativeToolTip": "SistemaGerenciamentoDeSupermercados\\Utils\\DisplayHelper.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAewB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:10:34.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaGerenciamentoDeSupermercados\\Program.cs",
+              "ToolTip": "C:\\Users\\vanes\\OneDrive\\Documentos\\Temporary\\CSharp\\Projeto Gerenciamento de Supermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\Program.cs",
+              "RelativeToolTip": "SistemaGerenciamentoDeSupermercados\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T01:10:34.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
