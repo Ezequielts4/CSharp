@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hKP7itVVL4q3MHhtRVp3B3wUQMrCydGqy746hTWhqxvNHm21/Yb9ffcoav1JOUR3jZts5O1HoS1eaaLFWTv4tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vanes\\OneDrive\\Área de Trabalho\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados\\SistemaGerenciamentoDeSupermercados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\vanes\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\vanes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\vanes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
