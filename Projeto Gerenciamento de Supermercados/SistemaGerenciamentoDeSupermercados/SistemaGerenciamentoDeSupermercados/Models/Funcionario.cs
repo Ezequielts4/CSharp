@@ -13,6 +13,15 @@ namespace SistemaGerenciamentoDeSupermercados.Models
         public int NumeroDeRegistro { get; set; }
         public string HorarioDeTrabalho { get; set; }
 
+        public Funcionario(string nome, string cargo, int numeroRegistro, string horario)
+        {
+            this.Nome = nome;
+            this.Cargo = cargo;
+            this.NumeroDeRegistro = numeroRegistro;
+            this.HorarioDeTrabalho = horario;
+        }
+        public Funcionario() { }
+
         public static Funcionario CriarFuncionario()
         {
             Funcionario funcionario = new Funcionario();
@@ -75,7 +84,7 @@ namespace SistemaGerenciamentoDeSupermercados.Models
         public override void MostrarDetalhes()
         {
             Console.WriteLine(); // para pular uma linha
-            Console.WriteLine($"ID: {Id}\nNome: {Nome}\nCargo: {Cargo}\nNúmero de registro: {NumeroDeRegistro}\nHorário de Trabalho: {HorarioDeTrabalho}");
+            Console.WriteLine($"ID: {Id}\nNome: {Nome}\nCargo: {Cargo}\nNúmero de registro: {NumeroDeRegistro}\nHorário de Trabalho: {HorarioDeTrabalho} horas");
         }
     }
 }

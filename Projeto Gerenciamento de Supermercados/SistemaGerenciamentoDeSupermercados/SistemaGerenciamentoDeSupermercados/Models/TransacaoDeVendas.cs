@@ -1,5 +1,6 @@
 ﻿using SistemaGerenciamentoDeSupermercados.Services;
 using SistemaGerenciamentoDeSupermercados.Utils;
+using System.Linq;
 
 namespace SistemaGerenciamentoDeSupermercados.Models
 {
@@ -11,8 +12,10 @@ namespace SistemaGerenciamentoDeSupermercados.Models
         public string ListaDeProdutosComprados { get; set; }
         public float ValorTotal { get; set; }
 
-        public void CriarTransacao()
+        public static TransacaoDeVendas CriarTransacao()
         {
+            TransacaoDeVendas transacao = new TransacaoDeVendas();
+
             Console.ForegroundColor = ConsoleColor.Black;
             Console.BackgroundColor = ConsoleColor.White;
             Console.WriteLine("\n   Preencha as informações abaixo para realizar uma transação   ");
@@ -20,24 +23,24 @@ namespace SistemaGerenciamentoDeSupermercados.Models
             Console.WriteLine(); // para pular uma linha
 
             Console.Write("Insira o ID do cliente: ");
-            IdDoCliente = int.Parse(Console.ReadLine());
+            transacao.IdDoCliente = int.Parse(Console.ReadLine());
 
             Console.WriteLine(); // para pular uma linha
             DisplayHelper.BarraCarregamento("Procurando cliente", 700, 3, "CIANO");
             Console.WriteLine(); // para pular uma linha
 
             Console.Write("\nInsira o ID do funcionário: ");
-            IdDoFuncionario = int.Parse(Console.ReadLine());
+            transacao.IdDoFuncionario = int.Parse(Console.ReadLine());
 
             Console.WriteLine(); // para pular uma linha
             DisplayHelper.BarraCarregamento("Procurando funcionário", 700, 3, "CIANO");
             Console.WriteLine(); // para pular uma linha
 
             Console.Write("\nInsira o(s) produto(s) comprado(s): ");
-            ListaDeProdutosComprados = Console.ReadLine();
+            transacao.ListaDeProdutosComprados = Console.ReadLine();
 
             Console.Write("\nInsira o valor total da(s) venda(s): ");
-            ValorTotal = float.Parse(Console.ReadLine());
+            transacao.ValorTotal = float.Parse(Console.ReadLine());
 
             Console.WriteLine(); // para pular uma linha
             DisplayHelper.BarraCarregamento("Cadastrando uma nova transação", 1000, 3, "VERDE");
@@ -45,6 +48,8 @@ namespace SistemaGerenciamentoDeSupermercados.Models
             Console.WriteLine("\nTransação realizada com sucesso!");
             Console.Write("Pressione qualquer tecla para continuar...");
             Console.ReadKey();
+
+            return transacao;
         }
 
         public void AtualizarTransacao()

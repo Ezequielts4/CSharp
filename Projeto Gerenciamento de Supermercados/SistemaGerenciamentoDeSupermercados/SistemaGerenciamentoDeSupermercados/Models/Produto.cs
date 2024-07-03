@@ -14,12 +14,28 @@ namespace SistemaGerenciamentoDeSupermercados.Models
         public string Categoria { get; set; }
         public double Preco { get; set; }
         public int QuantidadeEmEstoque { get; set; }
+        public string DataDeValidade { get; set; }
+
         public int diaValidade { get; set; }
         public int mesValidade { get; set; }
         public int anoValidade { get; set; }
 
-        public void CriarProduto()
+        public Produto(string nome, string categoria, double preco, int quantidadeEstoque, int diaValidade, int mesValidade, int anoValidade)
         {
+            this.Nome = nome;
+            this.Categoria = categoria;
+            this.Preco = preco;
+            this.QuantidadeEmEstoque = quantidadeEstoque;
+            this.diaValidade = diaValidade;
+            this.mesValidade = mesValidade;
+            this.anoValidade = anoValidade;
+        }
+        public Produto() { }
+
+        public static Produto CriarProduto()
+        {
+            Produto produto = new Produto();
+
             Console.ForegroundColor = ConsoleColor.Black;
             Console.BackgroundColor = ConsoleColor.White;
             Console.WriteLine("\n   Preencha as informações abaixo para cadastrar um produto   ");
@@ -27,24 +43,24 @@ namespace SistemaGerenciamentoDeSupermercados.Models
             Console.WriteLine(); // para pular uma linha
 
             Console.Write("Insira o nome do produto: ");
-            Nome = Console.ReadLine();
+            produto.Nome = Console.ReadLine();
 
             Console.Write("Insira a categoria do produto: ");
-            Categoria = Console.ReadLine();
+            produto.Categoria = Console.ReadLine();
 
             Console.Write("Insira o preço do produto: ");
-            Preco = double.Parse(Console.ReadLine());
+            produto.Preco = double.Parse(Console.ReadLine());
 
             Console.Write("Insira a quantidade de produto em estoque: ");
-            QuantidadeEmEstoque = int.Parse(Console.ReadLine());
+            produto.QuantidadeEmEstoque = int.Parse(Console.ReadLine());
 
             string[] data = new string[3];
             Console.Write("Insira a data de validade (dd/mm/yyyy): ");
             data = Console.ReadLine().Split("/");
 
-            diaValidade = int.Parse(data[0]);
-            mesValidade = int.Parse(data[1]);
-            anoValidade = int.Parse(data[2]);
+            produto.diaValidade = int.Parse(data[0]);
+            produto.mesValidade = int.Parse(data[1]);
+            produto.anoValidade = int.Parse(data[2]);
 
             Console.WriteLine(); // para pular uma linha
             DisplayHelper.BarraCarregamento("Cadastrando um novo produto", 1000, 3, "VERDE");
@@ -52,6 +68,8 @@ namespace SistemaGerenciamentoDeSupermercados.Models
             Console.WriteLine("\nProduto adicionado com sucesso!");
             Console.Write("Pressione qualquer tecla para continuar...");
             Console.ReadKey();
+
+            return produto;
         }
 
         public void AtualizarProduto()

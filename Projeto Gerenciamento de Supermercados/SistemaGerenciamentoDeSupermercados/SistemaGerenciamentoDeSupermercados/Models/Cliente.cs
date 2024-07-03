@@ -10,11 +10,22 @@ namespace SistemaGerenciamentoDeSupermercados.Models
 {
     public class Cliente : Pessoa
     {
-        public int diaNascimento { get; set; }
-        public int mesNascimento { get; set; }
-        public int anoNascimento { get; set; }
+        public ulong diaNascimento { get; set; }
+        public ulong mesNascimento { get; set; }
+        public ulong anoNascimento { get; set; }
         public string Endereco { get; set; }
         public string Telefone { get; set; }
+
+        public Cliente(string nome, ulong diaValidade, ulong mesValidade, ulong anoValidade, string endereco, string telefone)
+        {
+            this.Nome = nome;
+            this.diaNascimento = diaValidade;
+            this.mesNascimento = mesValidade;
+            this.anoNascimento = anoValidade;
+            this.Endereco = endereco;
+            this.Telefone = telefone;
+        }
+        public Cliente() { }
 
         public static Cliente CriarCliente()
         {
@@ -29,19 +40,29 @@ namespace SistemaGerenciamentoDeSupermercados.Models
             Console.Write("Insira o nome do cliente: ");
             cliente.Nome = Console.ReadLine();
 
-            string[] dataNascimento = new string[3];
+            string[] data = new string[3];
             Console.Write("Insira a data de nascimento (dd/mm/yyyy): ");
-            dataNascimento = Console.ReadLine().Split("/");
+            data = Console.ReadLine().Split("/");
 
-            cliente.diaNascimento = int.Parse(dataNascimento[0]);
-            cliente.mesNascimento = int.Parse(dataNascimento[1]);
-            cliente.anoNascimento = int.Parse(dataNascimento[2]);
+            cliente.diaNascimento = ulong.Parse(data[0]);
+            cliente.mesNascimento = ulong.Parse(data[1]);
+            cliente.anoNascimento = ulong.Parse(data[2]);
 
             Console.Write("Insira o endereço: ");
             cliente.Endereco = Console.ReadLine();
 
             Console.Write("Insira o telefone (apenas números): ");
             cliente.Telefone = Console.ReadLine();
+
+            while (cliente.Telefone.Length != 11)
+            {
+                Console.ForegroundColor = ConsoleColor.Black;
+                Console.BackgroundColor = ConsoleColor.White;
+                Console.WriteLine("\nPor favor, insira o número de telefone com 11 digitos (apenas números):");
+                Console.ResetColor();
+                Console.Write("\n-> ");
+                cliente.Telefone = Console.ReadLine();
+            }
 
             Console.WriteLine(); // para pular uma linha
             DisplayHelper.BarraCarregamento("Cadastrando um novo cliente", 1000, 3, "VERDE");
@@ -64,13 +85,13 @@ namespace SistemaGerenciamentoDeSupermercados.Models
             Console.Write("Atualize o nome: ");
             Nome = Console.ReadLine();
 
-            string[] dataNascimento = new string[3];
-            Console.Write("Atualize a data de nascimento(dd/mm/yyyy): ");
-            dataNascimento = Console.ReadLine().Split("/");
+            string[] data = new string[3];
+            Console.Write("Atualize a data de nascimento (dd/mm/yyyy): ");
+            data = Console.ReadLine().Split("/");
 
-            diaNascimento = int.Parse(dataNascimento[0]);
-            mesNascimento = int.Parse(dataNascimento[1]);
-            anoNascimento = int.Parse(dataNascimento[2]);
+            diaNascimento = ulong.Parse(data[0]);
+            mesNascimento = ulong.Parse(data[1]);
+            anoNascimento = ulong.Parse(data[2]);
 
             Console.Write("Atualize o endereço: ");
             Endereco = Console.ReadLine();
