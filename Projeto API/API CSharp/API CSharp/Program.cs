@@ -1,3 +1,4 @@
+using API_CSharp.Context;
 using API_CSharp.Models;
 using API_CSharp.Repository;
 
@@ -12,11 +13,15 @@ app.UseSwagger();
 
 var ProdutoRepository = new ProdutoRepository();
 
-app.MapGet("/", () => "Hello World!");
+using var db = new ProdutoContext();
+app.MapGet("/", () => db.DbPath);
 
 app.MapGet("/ListarProdutos", () => Results.Ok(ProdutoRepository.ListarProdutos()));
 
-app.MapPost("/CadastrarProdutos", (Produto produto) => Results.Ok(ProdutoRepository.CadastrarProduto(produto)));
+app.MapPost("/CadastrarProdutos", (Produto produto) => { 
+    ProdutoRepository.CadastrarProduto(produto);
+
+});
 
 app.UseSwaggerUI();
 
