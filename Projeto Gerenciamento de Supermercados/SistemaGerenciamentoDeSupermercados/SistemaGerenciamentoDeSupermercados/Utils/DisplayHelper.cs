@@ -77,6 +77,7 @@ namespace SistemaGerenciamentoDeSupermercados.Utils
 
     // MENU - MENU - MENU - MENU - MENU - MENU - MENU - MENU - MENU - MENU - MENU 
 
+    
     public static class Menu
     {
         static ClienteService clienteService = new ClienteService();
@@ -86,6 +87,8 @@ namespace SistemaGerenciamentoDeSupermercados.Utils
 
         static Produto produto = new Produto();
         static TransacaoDeVendas transacao = new TransacaoDeVendas();
+        
+        #region Menu Principal
 
         public static void MenuPrincipal()
         {
@@ -93,10 +96,10 @@ namespace SistemaGerenciamentoDeSupermercados.Utils
 
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Black;
-            Console.WriteLine("                                                                ");
-            Console.WriteLine("----------- Sistema de Gerenciamento de Supermercado -----------");
+            Console.WriteLine("================================================================");
+            Console.WriteLine("            Sistema de Gerenciamento de Supermercado            ");
             Console.BackgroundColor = ConsoleColor.White;
-            Console.WriteLine("                                                                ");
+            Console.WriteLine("================================================================");
             Console.ResetColor();
             Console.WriteLine(); // para pular uma linha
             Console.ForegroundColor = ConsoleColor.Black;
@@ -112,7 +115,9 @@ namespace SistemaGerenciamentoDeSupermercados.Utils
             Console.WriteLine(); // para pular uma linha
             Console.Write("-> ");
         }
+        #endregion
 
+        #region Menu Cliente
         public static void MenuCliente()
         {
             #region Cliente Predefinidos
@@ -249,6 +254,9 @@ namespace SistemaGerenciamentoDeSupermercados.Utils
             }
         }
 
+        #endregion
+
+        #region Menu Funcionario
         public static void MenuFuncionario()
         {
             #region Funcionarios Predefinidos
@@ -385,6 +393,10 @@ namespace SistemaGerenciamentoDeSupermercados.Utils
                 Console.WriteLine("\nFuncionário não encontrado, verifique se os dados estão corretos...");
             }
         }
+
+        #endregion
+
+        #region Menu Produto
 
         public static void MenuProduto()
         {
@@ -523,6 +535,10 @@ namespace SistemaGerenciamentoDeSupermercados.Utils
             }
         }
 
+        #endregion
+
+        #region Menu Transacao
+
         public static void MenuTransacao()
         {
             Console.Clear();
@@ -650,5 +666,9 @@ namespace SistemaGerenciamentoDeSupermercados.Utils
                 Console.WriteLine("\nTransação não encontrada, verifique se os dados estão corretos...");
             }
         }
+
+        #endregion
     }
 }
+
+
